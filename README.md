@@ -6,6 +6,7 @@ This is an open-source AI for StarCraft 2, utilizing [Blizzard's API](https://gi
 
 ## Goals
 - Minimal/no hardcoding
+- Parse replays
 - Identify and classify likely early enemy strategy
 - Utilize classifier to train time-constrained strategies to counter or out-pace enemy strategy
 - Identify early, mid, and late game for strategic adjustments
