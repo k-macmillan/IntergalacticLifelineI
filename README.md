@@ -12,4 +12,4 @@ This is an open-source AI for StarCraft 2, utilizing [Blizzard's API](https://gi
 - Identify early, mid, and late game for strategic adjustments
 - Scout, harass, and macro based on replays
 - Fine-tune strategies utilizing training environments
-- Defeat professional players
+- Defeat novice -> good -> professional players
