@@ -5,6 +5,6 @@
 ## Task Estimate
 | Task | Estimated Time |
 | :-:  | :-: |
-| Taks Name | Time(HH:MM) |
+| Task Name | Time(HH:MM) |
 |||
 
