@@ -1,14 +1,10 @@
 
-### Justification
+## Description
 
 
-### Tasks
-|| Status | Time | Estimated |
-| :-: | :-: | :-: | :-: |
-| Research | In progress | ~ | ~ |
-| Development | Todo | ~ | ~ |
-| Testing/ Tuning | Todo | ~ | ~ | 
-|||||
-| __Overall__ | In progress | ~ | ~ |
+## Task Estimate
+| Task | Estimated Time |
+| :-:  | :-: |
+| Taks Name | Time(HH:MM) |
+|||
 
-### References
