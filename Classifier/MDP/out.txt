@@ -1,0 +1,1370 @@
+Node 0 at depth 0 with 1246 records connects to 1:480, 2:525, 3:241
+Node 1 at depth 1 with 480 records connects to 4:58, 5:318, 6:104
+Node 2 at depth 1 with 525 records connects to 8:250, 9:175, 7:100
+Node 3 at depth 1 with 241 records connects to 865:90, 10:47, 12:104
+Node 4 at depth 2 with 58 records connects to 13:35, 14:23
+Node 5 at depth 2 with 318 records connects to 24:64, 22:83, 23:171
+Node 6 at depth 2 with 104 records connects to 32:4, 33:55, 761:45
+Node 7 at depth 2 with 100 records connects to 34:52, 35:10, 117:38
+Node 8 at depth 2 with 250 records connects to 16:106, 17:58, 340:86
+Node 9 at depth 2 with 175 records connects to 25:18, 26:20, 27:137
+Node 10 at depth 2 with 47 records connects to 964:25, 1525:22
+Node 12 at depth 2 with 104 records connects to 91:26, 119:78
+Node 13 at depth 3 with 35 records connects to 3317:6, 122:2, 446:27
+Node 14 at depth 3 with 23 records connects to 1894:13, 796:10
+Node 16 at depth 3 with 106 records connects to 369:42, 45:64
+Node 17 at depth 3 with 58 records connects to 880:8, 71:50
+Node 22 at depth 3 with 83 records connects to 2174:25, 2335:58
+Node 23 at depth 3 with 171 records connects to 832:93, 105:78
+Node 24 at depth 3 with 64 records connects to 2246:18, 454:46
+Node 25 at depth 3 with 18 records connects to 944:7, 2012:11
+Node 26 at depth 3 with 20 records connects to 403:8, 565:5, 971:7
+Node 27 at depth 3 with 137 records connects to 432:2, 2408:1, 108:134
+Node 32 at depth 3 with 4 records connects to 789:1, 949:3
+Node 33 at depth 3 with 55 records connects to 3157:1, 86:54
+Node 34 at depth 3 with 52 records connects to 710:41, 872:11
+Node 35 at depth 3 with 10 records connects to 3294:1, 2895:9
+Node 45 at depth 4 with 64 records connects to 1745:27, 531:37
+Node 71 at depth 4 with 50 records connects to 1044:8, 556:42
+Node 86 at depth 4 with 54 records connects to 2348:2, 247:52
+Node 91 at depth 3 with 26 records connects to 1483:8, 1132:18
+Node 105 at depth 4 with 78 records connects to 994:7, 509:71
+Node 108 at depth 4 with 134 records connects to 594:124, 837:10
+Node 117 at depth 3 with 38 records connects to 1088:36, 845:2
+Node 119 at depth 3 with 78 records connects to 363:8, 1797:70
+Node 122 at depth 4 with 2 records connects to 609:1, 2956:1
+Node 247 at depth 5 with 52 records connects to 2816:49, 4201:3
+Node 340 at depth 3 with 86 records connects to 584:82, 585:4
+Node 363 at depth 4 with 8 records connects to 2120:5, 3053:3
+Node 369 at depth 4 with 42 records connects to 1096:1, 3289:2, 1094:39
+Node 403 at depth 4 with 8 records connects to 3368:5, 3369:3
+Node 432 at depth 4 with 2 records connects to 
+Node 446 at depth 4 with 27 records connects to 1154:7, 1149:17, 1170:3
+Node 454 at depth 4 with 46 records connects to 5281:4, 1188:42
+Node 509 at depth 5 with 71 records connects to 2209:52, 4253:19
+Node 531 at depth 5 with 37 records connects to 2221:27, 2222:2, 2223:8
+Node 556 at depth 5 with 42 records connects to 2258:7, 3148:11, 2254:24
+Node 565 at depth 4 with 5 records connects to 5644:3, 5645:1, 5646:1
+Node 584 at depth 4 with 82 records connects to 3512:52, 2899:21, 2933:9
+Node 585 at depth 4 with 4 records connects to 5017:1, 4158:3
+Node 594 at depth 5 with 124 records connects to 2290:11, 2291:69, 2292:44
+Node 609 at depth 5 with 1 records connects to 
+Node 710 at depth 4 with 41 records connects to 3370:30, 3371:11
+Node 761 at depth 3 with 45 records connects to 1528:27, 1529:18
+Node 789 at depth 4 with 1 records connects to 
+Node 796 at depth 4 with 10 records connects to 3392:2, 3344:1, 3019:7
+Node 832 at depth 4 with 93 records connects to 5456:27, 1766:66
+Node 837 at depth 5 with 10 records connects to 1768:1, 1770:9
+Node 845 at depth 4 with 2 records connects to 2360:1, 4908:1
+Node 865 at depth 2 with 90 records connects to 3448:1, 2369:89
+Node 872 at depth 4 with 11 records connects to 1876:1, 1878:10
+Node 880 at depth 4 with 8 records connects to 5488:6, 5489:1, 5490:1
+Node 944 at depth 4 with 7 records connects to 2373:1, 3238:6
+Node 949 at depth 4 with 3 records connects to 
+Node 964 at depth 3 with 25 records connects to 4728:2, 5798:23
+Node 971 at depth 4 with 7 records connects to 3272:2, 2405:5
+Node 994 at depth 5 with 7 records connects to 3733:5, 3734:1, 3735:1
+Node 1044 at depth 5 with 8 records connects to 4519:2, 2428:5, 5277:1
+Node 1088 at depth 4 with 36 records connects to 2044:6, 2047:30
+Node 1094 at depth 5 with 39 records connects to 2450:4, 1101:35
+Node 1096 at depth 5 with 1 records connects to 
+Node 1101 at depth 6 with 35 records connects to 2458:10, 2459:9, 2460:16
+Node 1132 at depth 4 with 18 records connects to 5192:1, 2508:17
+Node 1149 at depth 5 with 17 records connects to 2517:2, 1157:12, 1167:3
+Node 1154 at depth 5 with 7 records connects to 3738:4, 1172:3
+Node 1157 at depth 6 with 12 records connects to 1176:5, 1174:7
+Node 1167 at depth 6 with 3 records connects to 
+Node 1170 at depth 5 with 3 records connects to 2554:1, 2556:2
+Node 1172 at depth 6 with 3 records connects to 
+Node 1174 at depth 7 with 7 records connects to 2557:5, 2558:1, 2559:1
+Node 1176 at depth 7 with 5 records connects to 3376:1, 3377:3, 3378:1
+Node 1188 at depth 5 with 42 records connects to 5292:14, 5295:28
+Node 1483 at depth 4 with 8 records connects to 5884:1, 5886:7
+Node 1525 at depth 3 with 22 records connects to 4508:3, 5053:19
+Node 1528 at depth 4 with 27 records connects to 3386:11, 3387:11, 4122:5
+Node 1529 at depth 4 with 18 records connects to 3755:7, 3756:5, 3757:6
+Node 1745 at depth 5 with 27 records connects to 3466:24, 2684:3
+Node 1766 at depth 5 with 66 records connects to 3784:5, 2760:59, 2747:2
+Node 1768 at depth 6 with 1 records connects to 
+Node 1770 at depth 6 with 9 records connects to 3026:5, 3028:4
+Node 1797 at depth 4 with 70 records connects to 2765:63, 3351:7
+Node 1876 at depth 5 with 1 records connects to 
+Node 1878 at depth 5 with 10 records connects to 3761:8, 3762:2
+Node 1894 at depth 4 with 13 records connects to 3816:12, 3037:1
+Node 2012 at depth 4 with 11 records connects to 3048:3, 3046:6, 3583:2
+Node 2044 at depth 5 with 6 records connects to 2848:5, 2854:1
+Node 2047 at depth 5 with 30 records connects to 2864:8, 2862:11, 3495:11
+Node 2120 at depth 5 with 5 records connects to 5934:4, 4966:1
+Node 2174 at depth 4 with 25 records connects to 3098:2, 2198:23
+Node 2198 at depth 5 with 23 records connects to 3072:13, 3600:10
+Node 2209 at depth 6 with 52 records connects to 2212:47, 2213:2, 2214:3
+Node 2212 at depth 7 with 47 records connects to 3619:1, 3102:46
+Node 2213 at depth 7 with 2 records connects to 
+Node 2214 at depth 7 with 3 records connects to 
+Node 2221 at depth 6 with 27 records connects to 2234:3, 3123:24
+Node 2222 at depth 6 with 2 records connects to 2228:1, 3112:1
+Node 2223 at depth 6 with 8 records connects to 3822:1, 2230:4, 2231:3
+Node 2228 at depth 7 with 1 records connects to 
+Node 2230 at depth 7 with 4 records connects to 4306:2, 4307:1, 4308:1
+Node 2231 at depth 7 with 3 records connects to 4712:2, 4711:1
+Node 2234 at depth 7 with 3 records connects to 
+Node 2246 at depth 4 with 18 records connects to 5422:1, 3126:17
+Node 2254 at depth 6 with 24 records connects to 3914:2, 3773:22
+Node 2258 at depth 6 with 7 records connects to 4060:4, 4061:1, 4062:2
+Node 2290 at depth 6 with 11 records connects to 2320:10, 3427:1
+Node 2291 at depth 6 with 69 records connects to 3176:7, 2297:52, 2323:10
+Node 2292 at depth 6 with 44 records connects to 2309:43, 2326:1
+Node 2297 at depth 7 with 52 records connects to 5592:1, 2315:49, 2316:2
+Node 2309 at depth 7 with 43 records connects to 3178:15, 3179:25, 3180:3
+Node 2315 at depth 8 with 49 records connects to 3194:15, 3195:34
+Node 2316 at depth 8 with 2 records connects to 
+Node 2320 at depth 7 with 10 records connects to 3680:3, 3211:7
+Node 2323 at depth 7 with 10 records connects to 3432:7, 3430:3
+Node 2326 at depth 7 with 1 records connects to 
+Node 2335 at depth 4 with 58 records connects to 3441:54, 3438:4
+Node 2348 at depth 5 with 2 records connects to 
+Node 2360 at depth 5 with 1 records connects to 
+Node 2369 at depth 3 with 89 records connects to 5650:45, 4321:44
+Node 2373 at depth 5 with 1 records connects to 
+Node 2405 at depth 5 with 5 records connects to 3706:4, 3276:1
+Node 2408 at depth 4 with 1 records connects to 
+Node 2428 at depth 6 with 5 records connects to 2437:3, 5655:2
+Node 2437 at depth 7 with 3 records connects to 
+Node 2450 at depth 6 with 4 records connects to 5648:2, 5649:1, 5647:1
+Node 2458 at depth 7 with 10 records connects to 4888:7, 4889:2, 4890:1
+Node 2459 at depth 7 with 9 records connects to 5272:7, 5273:1, 5274:1
+Node 2460 at depth 7 with 16 records connects to 3284:3, 3285:12, 3286:1
+Node 2508 at depth 5 with 17 records connects to 3314:3, 5719:14
+Node 2517 at depth 6 with 2 records connects to 
+Node 2554 at depth 6 with 1 records connects to 
+Node 2556 at depth 6 with 2 records connects to 
+Node 2557 at depth 8 with 5 records connects to 2561:4, 2562:1
+Node 2558 at depth 8 with 1 records connects to 
+Node 2559 at depth 8 with 1 records connects to 
+Node 2561 at depth 9 with 4 records connects to 4069:1, 4070:2, 4071:1
+Node 2562 at depth 9 with 1 records connects to 
+Node 2684 at depth 6 with 3 records connects to 2702:2, 2703:1
+Node 2702 at depth 7 with 2 records connects to 
+Node 2703 at depth 7 with 1 records connects to 
+Node 2747 at depth 6 with 2 records connects to 4072:1, 4074:1
+Node 2760 at depth 6 with 59 records connects to 4736:14, 3475:45
+Node 2765 at depth 5 with 63 records connects to 3795:24, 3790:39
+Node 2816 at depth 6 with 49 records connects to 4089:26, 4851:1, 4087:22
+Node 2848 at depth 6 with 5 records connects to 2851:3, 3487:2
+Node 2851 at depth 7 with 3 records connects to 3802:2, 3804:1
+Node 2854 at depth 6 with 1 records connects to 
+Node 2862 at depth 6 with 11 records connects to 2869:1, 2870:9, 2871:1
+Node 2864 at depth 6 with 8 records connects to 3729:3, 3359:5
+Node 2869 at depth 7 with 1 records connects to 
+Node 2870 at depth 7 with 9 records connects to 3364:3, 3365:3, 3366:3
+Node 2871 at depth 7 with 1 records connects to 
+Node 2895 at depth 4 with 9 records connects to 5042:8, 4717:1
+Node 2899 at depth 5 with 21 records connects to 3523:9, 3958:2, 2902:10
+Node 2902 at depth 6 with 10 records connects to 2921:9, 5498:1
+Node 2921 at depth 7 with 9 records connects to 3506:4, 3963:5
+Node 2933 at depth 5 with 9 records connects to 3538:2, 4743:7
+Node 2956 at depth 5 with 1 records connects to 
+Node 3019 at depth 5 with 7 records connects to 3578:1, 3574:6
+Node 3026 at depth 7 with 5 records connects to 4513:3, 4514:1, 4515:1
+Node 3028 at depth 7 with 4 records connects to 4312:2, 4313:1, 4928:1
+Node 3037 at depth 5 with 1 records connects to 
+Node 3046 at depth 5 with 6 records connects to 3580:3, 3582:3
+Node 3048 at depth 5 with 3 records connects to 3050:2, 4316:1
+Node 3050 at depth 6 with 2 records connects to 
+Node 3053 at depth 5 with 3 records connects to 4723:1, 4724:1, 4725:1
+Node 3072 at depth 6 with 13 records connects to 3586:2, 3587:11
+Node 3098 at depth 5 with 2 records connects to 3617:1, 3618:1
+Node 3102 at depth 8 with 46 records connects to 3818:44, 4547:2
+Node 3112 at depth 7 with 1 records connects to 
+Node 3123 at depth 7 with 24 records connects to 3824:14, 3825:9, 3823:1
+Node 3126 at depth 5 with 17 records connects to 4017:15, 3630:2
+Node 3148 at depth 6 with 11 records connects to 5200:8, 5014:1, 5368:2
+Node 3157 at depth 4 with 1 records connects to 
+Node 3176 at depth 7 with 7 records connects to 3649:1, 3650:4, 4018:2
+Node 3178 at depth 8 with 15 records connects to 4024:2, 3652:10, 3653:3
+Node 3179 at depth 8 with 25 records connects to 4099:21, 4100:1, 4101:3
+Node 3180 at depth 8 with 3 records connects to 
+Node 3194 at depth 9 with 15 records connects to 3201:13, 3199:2
+Node 3195 at depth 9 with 34 records connects to 3202:27, 3203:7
+Node 3199 at depth 10 with 2 records connects to 4516:1, 4518:1
+Node 3201 at depth 10 with 13 records connects to 3849:8, 4378:3, 4236:2
+Node 3202 at depth 10 with 27 records connects to 3666:25, 3667:1, 3671:1
+Node 3203 at depth 10 with 7 records connects to 4612:2, 4300:2, 3677:3
+Node 3211 at depth 8 with 7 records connects to 4320:5, 4318:1, 4319:1
+Node 3238 at depth 5 with 6 records connects to 4761:1, 4102:2, 4103:3
+Node 3272 at depth 5 with 2 records connects to 3851:1, 3852:1
+Node 3276 at depth 6 with 1 records connects to 
+Node 3284 at depth 8 with 3 records connects to 3709:2, 3711:1
+Node 3285 at depth 8 with 12 records connects to 3712:1, 3713:3, 3714:8
+Node 3286 at depth 8 with 1 records connects to 
+Node 3289 at depth 5 with 2 records connects to 
+Node 3294 at depth 4 with 1 records connects to 
+Node 3314 at depth 6 with 3 records connects to 
+Node 3317 at depth 4 with 6 records connects to 4522:1, 4523:4, 4524:1
+Node 3344 at depth 5 with 1 records connects to 
+Node 3351 at depth 5 with 7 records connects to 4330:3, 4331:2, 4332:2
+Node 3359 at depth 7 with 5 records connects to 5701:3, 5702:2
+Node 3364 at depth 8 with 3 records connects to 3731:2, 3732:1
+Node 3365 at depth 8 with 3 records connects to 
+Node 3366 at depth 8 with 3 records connects to 
+Node 3368 at depth 5 with 5 records connects to 4896:3, 4894:1, 4895:1
+Node 3369 at depth 5 with 3 records connects to 
+Node 3370 at depth 5 with 30 records connects to 3877:11, 3878:19
+Node 3371 at depth 5 with 11 records connects to 4108:8, 4109:1, 4110:2
+Node 3376 at depth 8 with 1 records connects to 
+Node 3377 at depth 8 with 3 records connects to 4333:2, 4334:1
+Node 3378 at depth 8 with 1 records connects to 
+Node 3386 at depth 5 with 11 records connects to 4426:4, 4116:7
+Node 3387 at depth 5 with 11 records connects to 4336:8, 4337:3
+Node 3392 at depth 5 with 2 records connects to 5491:1, 5492:1
+Node 3427 at depth 7 with 1 records connects to 
+Node 3430 at depth 8 with 3 records connects to 4352:1, 4351:2
+Node 3432 at depth 8 with 7 records connects to 3920:2, 3921:2, 3919:3
+Node 3438 at depth 5 with 4 records connects to 4354:3, 4355:1
+Node 3441 at depth 5 with 54 records connects to 4267:39, 3927:15
+Node 3448 at depth 3 with 1 records connects to 
+Node 3466 at depth 6 with 24 records connects to 4732:19, 4733:4, 4734:1
+Node 3475 at depth 7 with 45 records connects to 3936:8, 4644:31, 3935:6
+Node 3487 at depth 7 with 2 records connects to 
+Node 3495 at depth 6 with 11 records connects to 4141:4, 4142:6, 4143:1
+Node 3506 at depth 8 with 4 records connects to 5936:2, 5937:1, 5935:1
+Node 3512 at depth 5 with 52 records connects to 3964:45, 3966:7
+Node 3523 at depth 6 with 9 records connects to 4528:3, 4529:1, 4530:5
+Node 3538 at depth 6 with 2 records connects to 
+Node 3574 at depth 6 with 6 records connects to 4357:1, 4358:5
+Node 3578 at depth 6 with 1 records connects to 
+Node 3580 at depth 6 with 3 records connects to 
+Node 3582 at depth 6 with 3 records connects to 4152:2, 4150:1
+Node 3583 at depth 5 with 2 records connects to 
+Node 3586 at depth 7 with 2 records connects to 4155:1, 5279:1
+Node 3587 at depth 7 with 11 records connects to 3985:7, 3993:4
+Node 3600 at depth 6 with 10 records connects to 4012:9, 4014:1
+Node 3617 at depth 6 with 1 records connects to 
+Node 3618 at depth 6 with 1 records connects to 
+Node 3619 at depth 8 with 1 records connects to 
+Node 3630 at depth 6 with 2 records connects to 
+Node 3649 at depth 8 with 1 records connects to 
+Node 3650 at depth 8 with 4 records connects to 4536:2, 4534:1, 4535:1
+Node 3652 at depth 9 with 10 records connects to 3656:3, 3655:7
+Node 3653 at depth 9 with 3 records connects to 4361:1, 3660:2
+Node 3655 at depth 10 with 7 records connects to 4160:5, 4161:1, 4159:1
+Node 3656 at depth 10 with 3 records connects to 4022:2, 4023:1
+Node 3660 at depth 10 with 2 records connects to 
+Node 3666 at depth 11 with 25 records connects to 3675:23, 4900:2
+Node 3667 at depth 11 with 1 records connects to 
+Node 3671 at depth 11 with 1 records connects to 
+Node 3675 at depth 12 with 23 records connects to 4416:15, 4417:8
+Node 3677 at depth 11 with 3 records connects to 4034:2, 4420:1
+Node 3680 at depth 8 with 3 records connects to 
+Node 3706 at depth 6 with 4 records connects to 4045:3, 4047:1
+Node 3709 at depth 9 with 2 records connects to 4538:1, 4539:1
+Node 3711 at depth 9 with 1 records connects to 
+Node 3712 at depth 9 with 1 records connects to 
+Node 3713 at depth 9 with 3 records connects to 
+Node 3714 at depth 9 with 8 records connects to 4168:3, 4169:5
+Node 3729 at depth 7 with 3 records connects to 
+Node 3731 at depth 9 with 2 records connects to 
+Node 3732 at depth 9 with 1 records connects to 
+Node 3733 at depth 6 with 5 records connects to 5362:3, 5363:1, 5364:1
+Node 3734 at depth 6 with 1 records connects to 
+Node 3735 at depth 6 with 1 records connects to 
+Node 3738 at depth 6 with 4 records connects to 4540:2, 4541:1, 4542:1
+Node 3755 at depth 5 with 7 records connects to 5009:3, 5010:2, 5012:2
+Node 3756 at depth 5 with 5 records connects to 4179:4, 4827:1
+Node 3757 at depth 5 with 6 records connects to 4904:2, 4905:3, 4903:1
+Node 3761 at depth 6 with 8 records connects to 4180:5, 4181:2, 4182:1
+Node 3762 at depth 6 with 2 records connects to 
+Node 3773 at depth 7 with 22 records connects to 4186:21, 4774:1
+Node 3784 at depth 6 with 5 records connects to 3788:1, 4909:4
+Node 3788 at depth 7 with 1 records connects to 
+Node 3790 at depth 6 with 39 records connects to 4195:4, 4197:35
+Node 3795 at depth 6 with 24 records connects to 4632:2, 4369:18, 4371:4
+Node 3802 at depth 8 with 2 records connects to 
+Node 3804 at depth 8 with 1 records connects to 
+Node 3816 at depth 5 with 12 records connects to 4214:9, 4215:3
+Node 3818 at depth 9 with 44 records connects to 4745:4, 4746:38, 5092:2
+Node 3822 at depth 7 with 1 records connects to 
+Node 3823 at depth 8 with 1 records connects to 
+Node 3824 at depth 8 with 14 records connects to 4216:9, 4217:2, 4218:3
+Node 3825 at depth 8 with 9 records connects to 4376:5, 4377:3, 4375:1
+Node 3849 at depth 11 with 8 records connects to 4237:1, 4238:7
+Node 3851 at depth 6 with 1 records connects to 
+Node 3852 at depth 6 with 1 records connects to 
+Node 3877 at depth 6 with 11 records connects to 4248:4, 4244:1, 4245:6
+Node 3878 at depth 6 with 19 records connects to 4933:4, 4382:14, 4383:1
+Node 3914 at depth 7 with 2 records connects to 
+Node 3919 at depth 9 with 3 records connects to 
+Node 3920 at depth 9 with 2 records connects to 4261:1, 4262:1
+Node 3921 at depth 9 with 2 records connects to 4264:1, 4266:1
+Node 3927 at depth 6 with 15 records connects to 4912:7, 4914:8
+Node 3935 at depth 8 with 6 records connects to 4864:3, 4394:1, 4395:2
+Node 3936 at depth 8 with 8 records connects to 4396:5, 4653:3
+Node 3958 at depth 6 with 2 records connects to 
+Node 3963 at depth 8 with 5 records connects to 5914:3, 5915:1, 5916:1
+Node 3964 at depth 6 with 45 records connects to 4270:10, 4271:35
+Node 3966 at depth 6 with 7 records connects to 4403:6, 4813:1
+Node 3985 at depth 8 with 7 records connects to 4557:5, 3990:2
+Node 3990 at depth 9 with 2 records connects to 
+Node 3993 at depth 8 with 4 records connects to 5208:2, 5206:1, 5207:1
+Node 4012 at depth 7 with 9 records connects to 4285:1, 4286:7, 4287:1
+Node 4014 at depth 7 with 1 records connects to 
+Node 4017 at depth 6 with 15 records connects to 4289:1, 4697:14
+Node 4018 at depth 8 with 2 records connects to 
+Node 4022 at depth 11 with 2 records connects to 5496:1, 5495:1
+Node 4023 at depth 11 with 1 records connects to 
+Node 4024 at depth 9 with 2 records connects to 4293:1, 4951:1
+Node 4034 at depth 12 with 2 records connects to 
+Node 4045 at depth 7 with 3 records connects to 
+Node 4047 at depth 7 with 1 records connects to 
+Node 4060 at depth 7 with 4 records connects to 4915:1, 4916:2, 4917:1
+Node 4061 at depth 7 with 1 records connects to 
+Node 4062 at depth 7 with 2 records connects to 
+Node 4069 at depth 10 with 1 records connects to 
+Node 4070 at depth 10 with 2 records connects to 
+Node 4071 at depth 10 with 1 records connects to 
+Node 4072 at depth 7 with 1 records connects to 
+Node 4074 at depth 7 with 1 records connects to 
+Node 4087 at depth 7 with 22 records connects to 4568:8, 4569:2, 4567:12
+Node 4089 at depth 7 with 26 records connects to 4576:10, 4577:5, 4578:11
+Node 4099 at depth 9 with 21 records connects to 4756:1, 4757:19, 4758:1
+Node 4100 at depth 9 with 1 records connects to 
+Node 4101 at depth 9 with 3 records connects to 5098:2, 5100:1
+Node 4102 at depth 6 with 2 records connects to 
+Node 4103 at depth 6 with 3 records connects to 
+Node 4108 at depth 6 with 8 records connects to 5593:4, 5594:1, 5595:3
+Node 4109 at depth 6 with 1 records connects to 
+Node 4110 at depth 6 with 2 records connects to 
+Node 4116 at depth 6 with 7 records connects to 4762:2, 4764:5
+Node 4122 at depth 5 with 5 records connects to 4130:1, 4131:4
+Node 4130 at depth 6 with 1 records connects to 
+Node 4131 at depth 6 with 4 records connects to 4765:2, 4766:1, 4767:1
+Node 4141 at depth 7 with 4 records connects to 4579:2, 4580:1, 4581:1
+Node 4142 at depth 7 with 6 records connects to 5760:3, 5758:1, 5759:2
+Node 4143 at depth 7 with 1 records connects to 
+Node 4150 at depth 7 with 1 records connects to 
+Node 4152 at depth 7 with 2 records connects to 4440:1, 4439:1
+Node 4155 at depth 8 with 1 records connects to 
+Node 4158 at depth 5 with 3 records connects to 
+Node 4159 at depth 11 with 1 records connects to 
+Node 4160 at depth 11 with 5 records connects to 4768:2, 4769:1, 4770:2
+Node 4161 at depth 11 with 1 records connects to 
+Node 4168 at depth 10 with 3 records connects to 
+Node 4169 at depth 10 with 5 records connects to 5736:3, 5734:1, 5735:1
+Node 4179 at depth 6 with 4 records connects to 4921:1, 4922:3
+Node 4180 at depth 7 with 5 records connects to 4448:1, 4449:2, 4447:2
+Node 4181 at depth 7 with 2 records connects to 
+Node 4182 at depth 7 with 1 records connects to 
+Node 4186 at depth 8 with 21 records connects to 4924:2, 4925:19
+Node 4195 at depth 7 with 4 records connects to 4467:3, 4468:1
+Node 4197 at depth 7 with 35 records connects to 4474:26, 4475:9
+Node 4201 at depth 6 with 3 records connects to 4593:2, 4858:1
+Node 4214 at depth 6 with 9 records connects to 4780:6, 4781:1, 4782:2
+Node 4215 at depth 6 with 3 records connects to 
+Node 4216 at depth 9 with 9 records connects to 4219:1, 4220:8
+Node 4217 at depth 9 with 2 records connects to 4224:1, 4223:1
+Node 4218 at depth 9 with 3 records connects to 4594:1, 4596:2
+Node 4219 at depth 10 with 1 records connects to 
+Node 4220 at depth 10 with 8 records connects to 4784:2, 4785:1, 4783:5
+Node 4223 at depth 10 with 1 records connects to 
+Node 4224 at depth 10 with 1 records connects to 
+Node 4236 at depth 11 with 2 records connects to 
+Node 4237 at depth 12 with 1 records connects to 
+Node 4238 at depth 12 with 7 records connects to 4477:6, 4478:1
+Node 4244 at depth 7 with 1 records connects to 
+Node 4245 at depth 7 with 6 records connects to 4481:5, 4482:1
+Node 4248 at depth 7 with 4 records connects to 5851:2, 5852:1, 5853:1
+Node 4253 at depth 6 with 19 records connects to 5160:1, 4483:18
+Node 4261 at depth 10 with 1 records connects to 
+Node 4262 at depth 10 with 1 records connects to 
+Node 4264 at depth 10 with 1 records connects to 
+Node 4266 at depth 10 with 1 records connects to 
+Node 4267 at depth 6 with 39 records connects to 4496:4, 4489:30, 4491:5
+Node 4270 at depth 7 with 10 records connects to 5602:1, 4276:9
+Node 4271 at depth 7 with 35 records connects to 4608:16, 4281:2, 4279:17
+Node 4276 at depth 8 with 9 records connects to 4948:7, 5212:2
+Node 4279 at depth 8 with 17 records connects to 5432:3, 4793:1, 4794:13
+Node 4281 at depth 8 with 2 records connects to 
+Node 4285 at depth 8 with 1 records connects to 
+Node 4286 at depth 8 with 7 records connects to 5500:5, 5501:1, 5502:1
+Node 4287 at depth 8 with 1 records connects to 
+Node 4289 at depth 7 with 1 records connects to 
+Node 4293 at depth 10 with 1 records connects to 
+Node 4300 at depth 11 with 2 records connects to 
+Node 4306 at depth 8 with 2 records connects to 4618:1, 4619:1
+Node 4307 at depth 8 with 1 records connects to 
+Node 4308 at depth 8 with 1 records connects to 
+Node 4312 at depth 8 with 2 records connects to 
+Node 4313 at depth 8 with 1 records connects to 
+Node 4316 at depth 6 with 1 records connects to 
+Node 4318 at depth 9 with 1 records connects to 
+Node 4319 at depth 9 with 1 records connects to 
+Node 4320 at depth 9 with 5 records connects to 4800:1, 4798:1, 4799:3
+Node 4321 at depth 4 with 44 records connects to 4802:43, 4805:1
+Node 4330 at depth 6 with 3 records connects to 4861:2, 4622:1
+Node 4331 at depth 6 with 2 records connects to 5024:1, 5025:1
+Node 4332 at depth 6 with 2 records connects to 4930:1, 4932:1
+Node 4333 at depth 9 with 2 records connects to 
+Node 4334 at depth 9 with 1 records connects to 
+Node 4336 at depth 6 with 8 records connects to 4339:3, 4340:4, 4341:1
+Node 4337 at depth 6 with 3 records connects to 4344:1, 4342:2
+Node 4339 at depth 7 with 3 records connects to 
+Node 4340 at depth 7 with 4 records connects to 5026:1, 5027:1, 5028:2
+Node 4341 at depth 7 with 1 records connects to 
+Node 4342 at depth 7 with 2 records connects to 
+Node 4344 at depth 7 with 1 records connects to 
+Node 4351 at depth 9 with 2 records connects to 
+Node 4352 at depth 9 with 1 records connects to 
+Node 4354 at depth 6 with 3 records connects to 
+Node 4355 at depth 6 with 1 records connects to 
+Node 4357 at depth 7 with 1 records connects to 
+Node 4358 at depth 7 with 5 records connects to 5504:3, 5505:1, 5503:1
+Node 4361 at depth 10 with 1 records connects to 
+Node 4369 at depth 7 with 18 records connects to 4624:8, 4625:8, 4955:2
+Node 4371 at depth 7 with 4 records connects to 4636:1, 4637:3
+Node 4375 at depth 9 with 1 records connects to 
+Node 4376 at depth 9 with 5 records connects to 5107:1, 5108:1, 5109:3
+Node 4377 at depth 9 with 3 records connects to 
+Node 4378 at depth 11 with 3 records connects to 
+Node 4382 at depth 7 with 14 records connects to 4641:1, 5508:1, 4639:12
+Node 4383 at depth 7 with 1 records connects to 
+Node 4394 at depth 9 with 1 records connects to 
+Node 4395 at depth 9 with 2 records connects to 
+Node 4396 at depth 9 with 5 records connects to 4648:3, 4649:1, 4650:1
+Node 4403 at depth 7 with 6 records connects to 5425:2, 5427:4
+Node 4416 at depth 13 with 15 records connects to 4816:8, 4993:1, 4818:6
+Node 4417 at depth 13 with 8 records connects to 4936:2, 4937:3, 4938:3
+Node 4420 at depth 12 with 1 records connects to 
+Node 4426 at depth 6 with 4 records connects to 4819:3, 4821:1
+Node 4439 at depth 8 with 1 records connects to 
+Node 4440 at depth 8 with 1 records connects to 
+Node 4447 at depth 8 with 2 records connects to 
+Node 4448 at depth 8 with 1 records connects to 
+Node 4449 at depth 8 with 2 records connects to 
+Node 4467 at depth 8 with 3 records connects to 
+Node 4468 at depth 8 with 1 records connects to 
+Node 4474 at depth 8 with 26 records connects to 4669:9, 4677:11, 4671:6
+Node 4475 at depth 8 with 9 records connects to 4680:5, 4684:1, 4679:3
+Node 4477 at depth 13 with 6 records connects to 5209:5, 5211:1
+Node 4478 at depth 13 with 1 records connects to 
+Node 4481 at depth 8 with 5 records connects to 5596:3, 5597:1, 5598:1
+Node 4482 at depth 8 with 1 records connects to 
+Node 4483 at depth 7 with 18 records connects to 5156:10, 4997:8
+Node 4489 at depth 7 with 30 records connects to 4493:12, 4494:18
+Node 4491 at depth 7 with 5 records connects to 4498:1, 4499:3, 4500:1
+Node 4493 at depth 8 with 12 records connects to 4835:2, 4836:6, 4838:4
+Node 4494 at depth 8 with 18 records connects to 4693:1, 4694:16, 4879:1
+Node 4496 at depth 7 with 4 records connects to 5032:3, 5034:1
+Node 4498 at depth 8 with 1 records connects to 
+Node 4499 at depth 8 with 3 records connects to 
+Node 4500 at depth 8 with 1 records connects to 
+Node 4508 at depth 4 with 3 records connects to 
+Node 4513 at depth 8 with 3 records connects to 5764:1, 5765:1, 5766:1
+Node 4514 at depth 8 with 1 records connects to 
+Node 4515 at depth 8 with 1 records connects to 
+Node 4516 at depth 11 with 1 records connects to 
+Node 4518 at depth 11 with 1 records connects to 
+Node 4519 at depth 6 with 2 records connects to 
+Node 4522 at depth 5 with 1 records connects to 
+Node 4523 at depth 5 with 4 records connects to 5428:2, 5429:1, 5430:1
+Node 4524 at depth 5 with 1 records connects to 
+Node 4528 at depth 7 with 3 records connects to 4843:2, 4844:1
+Node 4529 at depth 7 with 1 records connects to 
+Node 4530 at depth 7 with 5 records connects to 5821:3, 5822:1, 5823:1
+Node 4534 at depth 9 with 1 records connects to 
+Node 4535 at depth 9 with 1 records connects to 
+Node 4536 at depth 9 with 2 records connects to 
+Node 4538 at depth 10 with 1 records connects to 
+Node 4539 at depth 10 with 1 records connects to 
+Node 4540 at depth 7 with 2 records connects to 
+Node 4541 at depth 7 with 1 records connects to 
+Node 4542 at depth 7 with 1 records connects to 
+Node 4547 at depth 9 with 2 records connects to 
+Node 4557 at depth 9 with 5 records connects to 5600:2, 5601:1, 5599:2
+Node 4567 at depth 8 with 12 records connects to 4939:5, 4940:1, 4941:6
+Node 4568 at depth 8 with 8 records connects to 4570:1, 4571:2, 4572:5
+Node 4569 at depth 8 with 2 records connects to 
+Node 4570 at depth 9 with 1 records connects to 
+Node 4571 at depth 9 with 2 records connects to 
+Node 4572 at depth 9 with 5 records connects to 5116:3, 5117:1, 5118:1
+Node 4576 at depth 8 with 10 records connects to 4852:8, 4853:1, 4854:1
+Node 4577 at depth 8 with 5 records connects to 5443:1, 4855:4
+Node 4578 at depth 8 with 11 records connects to 5120:9, 5121:2
+Node 4579 at depth 8 with 2 records connects to 
+Node 4580 at depth 8 with 1 records connects to 
+Node 4581 at depth 8 with 1 records connects to 
+Node 4593 at depth 7 with 2 records connects to 
+Node 4594 at depth 10 with 1 records connects to 
+Node 4596 at depth 10 with 2 records connects to 
+Node 4608 at depth 8 with 16 records connects to 5216:6, 5215:10
+Node 4612 at depth 11 with 2 records connects to 
+Node 4618 at depth 9 with 1 records connects to 
+Node 4619 at depth 9 with 1 records connects to 
+Node 4622 at depth 7 with 1 records connects to 
+Node 4624 at depth 8 with 8 records connects to 4627:4, 4628:1, 4629:3
+Node 4625 at depth 8 with 8 records connects to 5968:2, 5969:1, 5970:5
+Node 4627 at depth 9 with 4 records connects to 5995:2, 5996:1, 5997:1
+Node 4628 at depth 9 with 1 records connects to 
+Node 4629 at depth 9 with 3 records connects to 
+Node 4632 at depth 7 with 2 records connects to 4634:1, 4635:1
+Node 4634 at depth 8 with 1 records connects to 
+Node 4635 at depth 8 with 1 records connects to 
+Node 4636 at depth 8 with 1 records connects to 
+Node 4637 at depth 8 with 3 records connects to 
+Node 4639 at depth 8 with 12 records connects to 5365:11, 5367:1
+Node 4641 at depth 8 with 1 records connects to 
+Node 4644 at depth 8 with 31 records connects to 4957:3, 4958:6, 4959:22
+Node 4648 at depth 10 with 3 records connects to 5161:1, 4868:2
+Node 4649 at depth 10 with 1 records connects to 
+Node 4650 at depth 10 with 1 records connects to 
+Node 4653 at depth 9 with 3 records connects to 
+Node 4669 at depth 9 with 9 records connects to 4672:8, 4674:1
+Node 4671 at depth 9 with 6 records connects to 5122:5, 5123:1
+Node 4672 at depth 10 with 8 records connects to 4960:4, 4961:2, 4962:2
+Node 4674 at depth 10 with 1 records connects to 
+Node 4677 at depth 9 with 11 records connects to 4873:2, 4874:2, 4875:7
+Node 4679 at depth 9 with 3 records connects to 4688:1, 4689:1, 4687:1
+Node 4680 at depth 9 with 5 records connects to 4681:2, 4682:2, 4683:1
+Node 4681 at depth 10 with 2 records connects to 
+Node 4682 at depth 10 with 2 records connects to 
+Node 4683 at depth 10 with 1 records connects to 
+Node 4684 at depth 9 with 1 records connects to 
+Node 4687 at depth 10 with 1 records connects to 
+Node 4688 at depth 10 with 1 records connects to 
+Node 4689 at depth 10 with 1 records connects to 
+Node 4693 at depth 9 with 1 records connects to 
+Node 4694 at depth 9 with 16 records connects to 4876:4, 4877:11, 4878:1
+Node 4697 at depth 7 with 14 records connects to 5126:12, 5383:2
+Node 4711 at depth 8 with 1 records connects to 
+Node 4712 at depth 8 with 2 records connects to 
+Node 4717 at depth 5 with 1 records connects to 
+Node 4723 at depth 6 with 1 records connects to 
+Node 4724 at depth 6 with 1 records connects to 
+Node 4725 at depth 6 with 1 records connects to 
+Node 4728 at depth 4 with 2 records connects to 6052:1, 6021:1
+Node 4732 at depth 7 with 19 records connects to 5128:12, 5257:6, 5130:1
+Node 4733 at depth 7 with 4 records connects to 5704:2, 5705:1, 5706:1
+Node 4734 at depth 7 with 1 records connects to 
+Node 4736 at depth 7 with 14 records connects to 4740:13, 5133:1
+Node 4740 at depth 8 with 13 records connects to 5136:9, 5260:4
+Node 4743 at depth 6 with 7 records connects to 5218:6, 5219:1
+Node 4745 at depth 10 with 4 records connects to 5509:2, 5510:1, 5511:1
+Node 4746 at depth 10 with 38 records connects to 5137:7, 5138:12, 5139:19
+Node 4756 at depth 10 with 1 records connects to 
+Node 4757 at depth 10 with 19 records connects to 4978:16, 4979:2, 4980:1
+Node 4758 at depth 10 with 1 records connects to 
+Node 4761 at depth 6 with 1 records connects to 
+Node 4762 at depth 7 with 2 records connects to 
+Node 4764 at depth 7 with 5 records connects to 5140:2, 5141:2, 5142:1
+Node 4765 at depth 7 with 2 records connects to 
+Node 4766 at depth 7 with 1 records connects to 
+Node 4767 at depth 7 with 1 records connects to 
+Node 4768 at depth 12 with 2 records connects to 
+Node 4769 at depth 12 with 1 records connects to 
+Node 4770 at depth 12 with 2 records connects to 
+Node 4774 at depth 8 with 1 records connects to 
+Node 4780 at depth 7 with 6 records connects to 4987:4, 4988:2
+Node 4781 at depth 7 with 1 records connects to 
+Node 4782 at depth 7 with 2 records connects to 
+Node 4783 at depth 11 with 5 records connects to 5768:2, 5769:1, 5767:2
+Node 4784 at depth 11 with 2 records connects to 
+Node 4785 at depth 11 with 1 records connects to 
+Node 4793 at depth 9 with 1 records connects to 
+Node 4794 at depth 9 with 13 records connects to 5707:5, 5708:1, 5709:7
+Node 4798 at depth 10 with 1 records connects to 
+Node 4799 at depth 10 with 3 records connects to 
+Node 4800 at depth 10 with 1 records connects to 
+Node 4802 at depth 5 with 43 records connects to 5512:6, 5514:34, 5938:3
+Node 4805 at depth 5 with 1 records connects to 
+Node 4813 at depth 7 with 1 records connects to 
+Node 4816 at depth 14 with 8 records connects to 5221:6, 5222:1, 5223:1
+Node 4818 at depth 14 with 6 records connects to 5434:4, 5435:1, 5436:1
+Node 4819 at depth 7 with 3 records connects to 
+Node 4821 at depth 7 with 1 records connects to 
+Node 4827 at depth 6 with 1 records connects to 
+Node 4835 at depth 9 with 2 records connects to 
+Node 4836 at depth 9 with 6 records connects to 5048:4, 5049:1, 5047:1
+Node 4838 at depth 9 with 4 records connects to 5050:1, 5051:3
+Node 4843 at depth 8 with 2 records connects to 
+Node 4844 at depth 8 with 1 records connects to 
+Node 4851 at depth 7 with 1 records connects to 
+Node 4852 at depth 9 with 8 records connects to 5515:3, 5516:1, 5517:4
+Node 4853 at depth 9 with 1 records connects to 
+Node 4854 at depth 9 with 1 records connects to 
+Node 4855 at depth 9 with 4 records connects to 5520:1, 5518:2, 5519:1
+Node 4858 at depth 7 with 1 records connects to 
+Node 4861 at depth 7 with 2 records connects to 
+Node 4864 at depth 9 with 3 records connects to 
+Node 4868 at depth 11 with 2 records connects to 
+Node 4873 at depth 10 with 2 records connects to 
+Node 4874 at depth 10 with 2 records connects to 
+Node 4875 at depth 10 with 7 records connects to 6010:4, 5972:2, 5973:1
+Node 4876 at depth 10 with 4 records connects to 5002:2, 5247:2
+Node 4877 at depth 10 with 11 records connects to 5224:5, 5225:4, 5226:2
+Node 4878 at depth 10 with 1 records connects to 
+Node 4879 at depth 9 with 1 records connects to 
+Node 4888 at depth 8 with 7 records connects to 5227:1, 5228:6
+Node 4889 at depth 8 with 2 records connects to 
+Node 4890 at depth 8 with 1 records connects to 
+Node 4894 at depth 6 with 1 records connects to 
+Node 4895 at depth 6 with 1 records connects to 
+Node 4896 at depth 6 with 3 records connects to 5064:2, 5063:1
+Node 4900 at depth 12 with 2 records connects to 
+Node 4903 at depth 6 with 1 records connects to 
+Node 4904 at depth 6 with 2 records connects to 5066:1, 5067:1
+Node 4905 at depth 6 with 3 records connects to 5376:2, 5375:1
+Node 4908 at depth 5 with 1 records connects to 
+Node 4909 at depth 7 with 4 records connects to 5069:1, 5070:3
+Node 4912 at depth 7 with 7 records connects to 5164:1, 5165:3, 5166:3
+Node 4914 at depth 7 with 8 records connects to 5437:6, 5438:2
+Node 4915 at depth 8 with 1 records connects to 
+Node 4916 at depth 8 with 2 records connects to 
+Node 4917 at depth 8 with 1 records connects to 
+Node 4921 at depth 7 with 1 records connects to 
+Node 4922 at depth 7 with 3 records connects to 
+Node 4924 at depth 9 with 2 records connects to 5284:1, 5285:1
+Node 4925 at depth 9 with 19 records connects to 5168:8, 5266:11
+Node 4928 at depth 8 with 1 records connects to 
+Node 4930 at depth 7 with 1 records connects to 
+Node 4932 at depth 7 with 1 records connects to 
+Node 4933 at depth 7 with 4 records connects to 5171:3, 5172:1
+Node 4936 at depth 14 with 2 records connects to 
+Node 4937 at depth 14 with 3 records connects to 
+Node 4938 at depth 14 with 3 records connects to 
+Node 4939 at depth 9 with 5 records connects to 5288:3, 5289:1, 5287:1
+Node 4940 at depth 9 with 1 records connects to 
+Node 4941 at depth 9 with 6 records connects to 5524:2, 5525:2, 5526:2
+Node 4948 at depth 9 with 7 records connects to 5232:5, 5230:2
+Node 4951 at depth 10 with 1 records connects to 
+Node 4955 at depth 8 with 2 records connects to 5952:1, 5950:1
+Node 4957 at depth 9 with 3 records connects to 5345:2, 5235:1
+Node 4958 at depth 9 with 6 records connects to 5179:1, 5076:1, 5079:4
+Node 4959 at depth 9 with 22 records connects to 5080:15, 5087:5, 5089:2
+Node 4960 at depth 11 with 4 records connects to 6024:2, 6022:1, 6023:1
+Node 4961 at depth 11 with 2 records connects to 
+Node 4962 at depth 11 with 2 records connects to 
+Node 4966 at depth 6 with 1 records connects to 
+Node 4978 at depth 11 with 16 records connects to 5236:3, 5237:8, 5238:5
+Node 4979 at depth 11 with 2 records connects to 
+Node 4980 at depth 11 with 1 records connects to 
+Node 4987 at depth 8 with 4 records connects to 5240:3, 5239:1
+Node 4988 at depth 8 with 2 records connects to 
+Node 4993 at depth 14 with 1 records connects to 
+Node 4997 at depth 8 with 8 records connects to 5242:6, 5243:2
+Node 5002 at depth 11 with 2 records connects to 
+Node 5009 at depth 6 with 3 records connects to 5248:2, 5249:1
+Node 5010 at depth 6 with 2 records connects to 5176:1, 5178:1
+Node 5012 at depth 6 with 2 records connects to 
+Node 5014 at depth 7 with 1 records connects to 
+Node 5017 at depth 5 with 1 records connects to 
+Node 5024 at depth 7 with 1 records connects to 
+Node 5025 at depth 7 with 1 records connects to 
+Node 5026 at depth 8 with 1 records connects to 
+Node 5027 at depth 8 with 1 records connects to 
+Node 5028 at depth 8 with 2 records connects to 
+Node 5032 at depth 8 with 3 records connects to 5251:1, 5253:2
+Node 5034 at depth 8 with 1 records connects to 
+Node 5042 at depth 5 with 8 records connects to 5528:4, 5529:2, 5527:2
+Node 5047 at depth 10 with 1 records connects to 
+Node 5048 at depth 10 with 4 records connects to 5299:1, 5300:1, 5301:2
+Node 5049 at depth 10 with 1 records connects to 
+Node 5050 at depth 10 with 1 records connects to 
+Node 5051 at depth 10 with 3 records connects to 5377:1, 5378:1, 5379:1
+Node 5053 at depth 4 with 19 records connects to 5773:8, 5774:1, 5775:10
+Node 5063 at depth 7 with 1 records connects to 
+Node 5064 at depth 7 with 2 records connects to 
+Node 5066 at depth 7 with 1 records connects to 
+Node 5067 at depth 7 with 1 records connects to 
+Node 5069 at depth 8 with 1 records connects to 
+Node 5070 at depth 8 with 3 records connects to 
+Node 5076 at depth 10 with 1 records connects to 
+Node 5079 at depth 10 with 4 records connects to 5380:1, 5381:2, 5382:1
+Node 5080 at depth 10 with 15 records connects to 5084:3, 5085:12
+Node 5084 at depth 11 with 3 records connects to 
+Node 5085 at depth 11 with 12 records connects to 5184:11, 5182:1
+Node 5087 at depth 10 with 5 records connects to 5304:2, 5303:3
+Node 5089 at depth 10 with 2 records connects to 
+Node 5092 at depth 10 with 2 records connects to 
+Node 5098 at depth 10 with 2 records connects to 
+Node 5100 at depth 10 with 1 records connects to 
+Node 5107 at depth 10 with 1 records connects to 
+Node 5108 at depth 10 with 1 records connects to 
+Node 5109 at depth 10 with 3 records connects to 
+Node 5116 at depth 10 with 3 records connects to 
+Node 5117 at depth 10 with 1 records connects to 
+Node 5118 at depth 10 with 1 records connects to 
+Node 5120 at depth 9 with 9 records connects to 5448:3, 5446:4, 5447:2
+Node 5121 at depth 9 with 2 records connects to 
+Node 5122 at depth 10 with 5 records connects to 6034:1, 6035:1, 6036:3
+Node 5123 at depth 10 with 1 records connects to 
+Node 5126 at depth 8 with 12 records connects to 5312:5, 5322:6, 5319:1
+Node 5128 at depth 8 with 12 records connects to 5323:2, 5324:10
+Node 5130 at depth 8 with 1 records connects to 
+Node 5133 at depth 8 with 1 records connects to 
+Node 5136 at depth 9 with 9 records connects to 5449:1, 5450:5, 5451:3
+Node 5137 at depth 11 with 7 records connects to 5328:4, 5326:2, 5327:1
+Node 5138 at depth 11 with 12 records connects to 5264:2, 5265:10
+Node 5139 at depth 11 with 19 records connects to 5329:1, 5330:14, 5331:4
+Node 5140 at depth 8 with 2 records connects to 
+Node 5141 at depth 8 with 2 records connects to 
+Node 5142 at depth 8 with 1 records connects to 
+Node 5156 at depth 8 with 10 records connects to 5332:4, 5333:4, 5334:2
+Node 5160 at depth 7 with 1 records connects to 
+Node 5161 at depth 11 with 1 records connects to 
+Node 5164 at depth 8 with 1 records connects to 
+Node 5165 at depth 8 with 3 records connects to 5452:2, 5453:1
+Node 5166 at depth 8 with 3 records connects to 
+Node 5168 at depth 10 with 8 records connects to 5712:7, 5710:1
+Node 5171 at depth 8 with 3 records connects to 5533:2, 5535:1
+Node 5172 at depth 8 with 1 records connects to 
+Node 5176 at depth 7 with 1 records connects to 
+Node 5178 at depth 7 with 1 records connects to 
+Node 5179 at depth 10 with 1 records connects to 
+Node 5182 at depth 12 with 1 records connects to 
+Node 5184 at depth 12 with 11 records connects to 5269:9, 5270:1, 5271:1
+Node 5192 at depth 5 with 1 records connects to 
+Node 5200 at depth 7 with 8 records connects to 5536:2, 5537:1, 5538:5
+Node 5206 at depth 9 with 1 records connects to 
+Node 5207 at depth 9 with 1 records connects to 
+Node 5208 at depth 9 with 2 records connects to 
+Node 5209 at depth 14 with 5 records connects to 5668:2, 5669:1, 5670:2
+Node 5211 at depth 14 with 1 records connects to 
+Node 5212 at depth 9 with 2 records connects to 5672:1, 5673:1
+Node 5215 at depth 9 with 10 records connects to 5740:6, 5741:1, 5742:3
+Node 5216 at depth 9 with 6 records connects to 5744:4, 5745:1, 5743:1
+Node 5218 at depth 7 with 6 records connects to 5338:3, 5339:3
+Node 5219 at depth 7 with 1 records connects to 
+Node 5221 at depth 15 with 6 records connects to 5341:2, 5342:1, 5343:3
+Node 5222 at depth 15 with 1 records connects to 
+Node 5223 at depth 15 with 1 records connects to 
+Node 5224 at depth 11 with 5 records connects to 5539:2, 5540:2, 5541:1
+Node 5225 at depth 11 with 4 records connects to 5386:2, 5387:1, 5388:1
+Node 5226 at depth 11 with 2 records connects to 
+Node 5227 at depth 9 with 1 records connects to 
+Node 5228 at depth 9 with 6 records connects to 5544:4, 5542:1, 5543:1
+Node 5230 at depth 10 with 2 records connects to 
+Node 5232 at depth 10 with 5 records connects to 5713:2, 5714:2, 5715:1
+Node 5235 at depth 10 with 1 records connects to 
+Node 5236 at depth 12 with 3 records connects to 5389:2, 5390:1
+Node 5237 at depth 12 with 8 records connects to 5545:5, 5546:1, 5547:2
+Node 5238 at depth 12 with 5 records connects to 5458:1, 5459:1, 5460:3
+Node 5239 at depth 9 with 1 records connects to 
+Node 5240 at depth 9 with 3 records connects to 
+Node 5242 at depth 9 with 6 records connects to 5347:2, 5348:4
+Node 5243 at depth 9 with 2 records connects to 
+Node 5247 at depth 11 with 2 records connects to 
+Node 5248 at depth 7 with 2 records connects to 
+Node 5249 at depth 7 with 1 records connects to 
+Node 5251 at depth 9 with 1 records connects to 
+Node 5253 at depth 9 with 2 records connects to 
+Node 5257 at depth 8 with 6 records connects to 5419:1, 5350:5
+Node 5260 at depth 9 with 4 records connects to 5353:1, 5354:2, 5355:1
+Node 5264 at depth 12 with 2 records connects to 5357:1, 5358:1
+Node 5265 at depth 12 with 10 records connects to 5360:5, 5361:2, 5359:3
+Node 5266 at depth 10 with 11 records connects to 5716:3, 5718:8
+Node 5269 at depth 13 with 9 records connects to 5395:2, 5396:1, 5397:6
+Node 5270 at depth 13 with 1 records connects to 
+Node 5271 at depth 13 with 1 records connects to 
+Node 5272 at depth 8 with 7 records connects to 5400:4, 5398:2, 5399:1
+Node 5273 at depth 8 with 1 records connects to 
+Node 5274 at depth 8 with 1 records connects to 
+Node 5277 at depth 6 with 1 records connects to 
+Node 5279 at depth 8 with 1 records connects to 
+Node 5281 at depth 5 with 4 records connects to 5674:1, 5675:2, 5676:1
+Node 5284 at depth 10 with 1 records connects to 
+Node 5285 at depth 10 with 1 records connects to 
+Node 5287 at depth 10 with 1 records connects to 
+Node 5288 at depth 10 with 3 records connects to 
+Node 5289 at depth 10 with 1 records connects to 
+Node 5292 at depth 6 with 14 records connects to 5461:8, 5462:6
+Node 5295 at depth 6 with 28 records connects to 5404:20, 5405:1, 5406:7
+Node 5299 at depth 11 with 1 records connects to 
+Node 5300 at depth 11 with 1 records connects to 
+Node 5301 at depth 11 with 2 records connects to 
+Node 5303 at depth 11 with 3 records connects to 5677:1, 5678:1, 5679:1
+Node 5304 at depth 11 with 2 records connects to 
+Node 5312 at depth 9 with 5 records connects to 5314:4, 5315:1
+Node 5314 at depth 10 with 4 records connects to 5464:2, 5465:1, 5466:1
+Node 5315 at depth 10 with 1 records connects to 
+Node 5319 at depth 9 with 1 records connects to 
+Node 5322 at depth 9 with 6 records connects to 5410:3, 5411:2, 5412:1
+Node 5323 at depth 9 with 2 records connects to 
+Node 5324 at depth 9 with 10 records connects to 5413:9, 5414:1
+Node 5326 at depth 12 with 2 records connects to 
+Node 5327 at depth 12 with 1 records connects to 
+Node 5328 at depth 12 with 4 records connects to 5467:2, 5468:1, 5469:1
+Node 5329 at depth 12 with 1 records connects to 
+Node 5330 at depth 12 with 14 records connects to 5472:8, 5470:5, 5471:1
+Node 5331 at depth 12 with 4 records connects to 5552:2, 5553:1, 5551:1
+Node 5332 at depth 9 with 4 records connects to 5416:2, 5417:1, 5418:1
+Node 5333 at depth 9 with 4 records connects to 5473:2, 5474:1, 5475:1
+Node 5334 at depth 9 with 2 records connects to 
+Node 5338 at depth 8 with 3 records connects to 5746:2, 5748:1
+Node 5339 at depth 8 with 3 records connects to 5554:2, 5556:1
+Node 5341 at depth 16 with 2 records connects to 
+Node 5342 at depth 16 with 1 records connects to 
+Node 5343 at depth 16 with 3 records connects to 
+Node 5345 at depth 10 with 2 records connects to 
+Node 5347 at depth 10 with 2 records connects to 
+Node 5348 at depth 10 with 4 records connects to 5557:1, 5558:2, 5559:1
+Node 5350 at depth 9 with 5 records connects to 5824:3, 5825:1, 5826:1
+Node 5353 at depth 10 with 1 records connects to 
+Node 5354 at depth 10 with 2 records connects to 
+Node 5355 at depth 10 with 1 records connects to 
+Node 5357 at depth 13 with 1 records connects to 
+Node 5358 at depth 13 with 1 records connects to 
+Node 5359 at depth 13 with 3 records connects to 
+Node 5360 at depth 13 with 5 records connects to 5680:3, 5681:1, 5682:1
+Node 5361 at depth 13 with 2 records connects to 
+Node 5362 at depth 7 with 3 records connects to 
+Node 5363 at depth 7 with 1 records connects to 
+Node 5364 at depth 7 with 1 records connects to 
+Node 5365 at depth 9 with 11 records connects to 5560:1, 5561:1, 5562:9
+Node 5367 at depth 9 with 1 records connects to 
+Node 5368 at depth 7 with 2 records connects to 5608:1, 5610:1
+Node 5375 at depth 7 with 1 records connects to 
+Node 5376 at depth 7 with 2 records connects to 
+Node 5377 at depth 11 with 1 records connects to 
+Node 5378 at depth 11 with 1 records connects to 
+Node 5379 at depth 11 with 1 records connects to 
+Node 5380 at depth 11 with 1 records connects to 
+Node 5381 at depth 11 with 2 records connects to 
+Node 5382 at depth 11 with 1 records connects to 
+Node 5383 at depth 8 with 2 records connects to 
+Node 5386 at depth 12 with 2 records connects to 
+Node 5387 at depth 12 with 1 records connects to 
+Node 5388 at depth 12 with 1 records connects to 
+Node 5389 at depth 13 with 2 records connects to 
+Node 5390 at depth 13 with 1 records connects to 
+Node 5395 at depth 14 with 2 records connects to 
+Node 5396 at depth 14 with 1 records connects to 
+Node 5397 at depth 14 with 6 records connects to 5563:2, 5564:3, 5565:1
+Node 5398 at depth 9 with 2 records connects to 
+Node 5399 at depth 9 with 1 records connects to 
+Node 5400 at depth 9 with 4 records connects to 5611:2, 5612:1, 5613:1
+Node 5404 at depth 7 with 20 records connects to 5480:10, 5481:3, 5479:7
+Node 5405 at depth 7 with 1 records connects to 
+Node 5406 at depth 7 with 7 records connects to 5683:3, 5684:3, 5685:1
+Node 5410 at depth 10 with 3 records connects to 
+Node 5411 at depth 10 with 2 records connects to 5632:1, 5567:1
+Node 5412 at depth 10 with 1 records connects to 
+Node 5413 at depth 10 with 9 records connects to 5623:1, 5486:1, 5487:7
+Node 5414 at depth 10 with 1 records connects to 
+Node 5416 at depth 10 with 2 records connects to 
+Node 5417 at depth 10 with 1 records connects to 
+Node 5418 at depth 10 with 1 records connects to 
+Node 5419 at depth 9 with 1 records connects to 
+Node 5422 at depth 5 with 1 records connects to 
+Node 5425 at depth 8 with 2 records connects to 
+Node 5427 at depth 8 with 4 records connects to 5800:2, 5801:1, 5802:1
+Node 5428 at depth 6 with 2 records connects to 
+Node 5429 at depth 6 with 1 records connects to 
+Node 5430 at depth 6 with 1 records connects to 
+Node 5432 at depth 9 with 3 records connects to 5616:1, 5614:2
+Node 5434 at depth 15 with 4 records connects to 5569:3, 5571:1
+Node 5435 at depth 15 with 1 records connects to 
+Node 5436 at depth 15 with 1 records connects to 
+Node 5437 at depth 8 with 6 records connects to 5572:3, 5573:1, 5574:2
+Node 5438 at depth 8 with 2 records connects to 
+Node 5443 at depth 9 with 1 records connects to 
+Node 5446 at depth 10 with 4 records connects to 5827:2, 5828:1, 5829:1
+Node 5447 at depth 10 with 2 records connects to 
+Node 5448 at depth 10 with 3 records connects to 
+Node 5449 at depth 10 with 1 records connects to 
+Node 5450 at depth 10 with 5 records connects to 5688:1, 5686:1, 5687:3
+Node 5451 at depth 10 with 3 records connects to 
+Node 5452 at depth 9 with 2 records connects to 
+Node 5453 at depth 9 with 1 records connects to 
+Node 5456 at depth 5 with 27 records connects to 5576:24, 5577:1, 5575:2
+Node 5458 at depth 13 with 1 records connects to 
+Node 5459 at depth 13 with 1 records connects to 
+Node 5460 at depth 13 with 3 records connects to 
+Node 5461 at depth 7 with 8 records connects to 5617:4, 5618:3, 5619:1
+Node 5462 at depth 7 with 6 records connects to 5578:2, 5579:3, 5580:1
+Node 5464 at depth 11 with 2 records connects to 
+Node 5465 at depth 11 with 1 records connects to 
+Node 5466 at depth 11 with 1 records connects to 
+Node 5467 at depth 13 with 2 records connects to 
+Node 5468 at depth 13 with 1 records connects to 
+Node 5469 at depth 13 with 1 records connects to 
+Node 5470 at depth 13 with 5 records connects to 5905:2, 5906:1, 5907:2
+Node 5471 at depth 13 with 1 records connects to 
+Node 5472 at depth 13 with 8 records connects to 5581:2, 5582:3, 5583:3
+Node 5473 at depth 10 with 2 records connects to 
+Node 5474 at depth 10 with 1 records connects to 
+Node 5475 at depth 10 with 1 records connects to 
+Node 5479 at depth 8 with 7 records connects to 5584:1, 5585:5, 5641:1
+Node 5480 at depth 8 with 10 records connects to 5482:3, 5483:6, 5484:1
+Node 5481 at depth 8 with 3 records connects to 5620:1, 5622:2
+Node 5482 at depth 9 with 3 records connects to 
+Node 5483 at depth 9 with 6 records connects to 5587:1, 5588:5
+Node 5484 at depth 9 with 1 records connects to 
+Node 5486 at depth 11 with 1 records connects to 
+Node 5487 at depth 11 with 7 records connects to 5626:3, 5627:2, 5628:2
+Node 5488 at depth 5 with 6 records connects to 5880:2, 5878:3, 5879:1
+Node 5489 at depth 5 with 1 records connects to 
+Node 5490 at depth 5 with 1 records connects to 
+Node 5491 at depth 6 with 1 records connects to 
+Node 5492 at depth 6 with 1 records connects to 
+Node 5495 at depth 12 with 1 records connects to 
+Node 5496 at depth 12 with 1 records connects to 
+Node 5498 at depth 7 with 1 records connects to 
+Node 5500 at depth 9 with 5 records connects to 5629:2, 5630:2, 5631:1
+Node 5501 at depth 9 with 1 records connects to 
+Node 5502 at depth 9 with 1 records connects to 
+Node 5503 at depth 8 with 1 records connects to 
+Node 5504 at depth 8 with 3 records connects to 
+Node 5505 at depth 8 with 1 records connects to 
+Node 5508 at depth 8 with 1 records connects to 
+Node 5509 at depth 11 with 2 records connects to 
+Node 5510 at depth 11 with 1 records connects to 
+Node 5511 at depth 11 with 1 records connects to 
+Node 5512 at depth 6 with 6 records connects to 6144:2, 6142:3, 6143:1
+Node 5514 at depth 6 with 34 records connects to 5803:6, 5805:28
+Node 5515 at depth 10 with 3 records connects to 
+Node 5516 at depth 10 with 1 records connects to 
+Node 5517 at depth 10 with 4 records connects to 5776:2, 5777:1, 5778:1
+Node 5518 at depth 10 with 2 records connects to 
+Node 5519 at depth 10 with 1 records connects to 
+Node 5520 at depth 10 with 1 records connects to 
+Node 5524 at depth 10 with 2 records connects to 
+Node 5525 at depth 10 with 2 records connects to 
+Node 5526 at depth 10 with 2 records connects to 
+Node 5527 at depth 6 with 2 records connects to 
+Node 5528 at depth 6 with 4 records connects to 5530:1, 5531:2, 5532:1
+Node 5529 at depth 6 with 2 records connects to 
+Node 5530 at depth 7 with 1 records connects to 
+Node 5531 at depth 7 with 2 records connects to 
+Node 5532 at depth 7 with 1 records connects to 
+Node 5533 at depth 9 with 2 records connects to 
+Node 5535 at depth 9 with 1 records connects to 
+Node 5536 at depth 8 with 2 records connects to 
+Node 5537 at depth 8 with 1 records connects to 
+Node 5538 at depth 8 with 5 records connects to 6145:2, 6146:2, 6147:1
+Node 5539 at depth 12 with 2 records connects to 
+Node 5540 at depth 12 with 2 records connects to 
+Node 5541 at depth 12 with 1 records connects to 
+Node 5542 at depth 10 with 1 records connects to 
+Node 5543 at depth 10 with 1 records connects to 
+Node 5544 at depth 10 with 4 records connects to 5689:2, 5690:1, 5691:1
+Node 5545 at depth 13 with 5 records connects to 5692:3, 5693:1, 5694:1
+Node 5546 at depth 13 with 1 records connects to 
+Node 5547 at depth 13 with 2 records connects to 5750:1, 5751:1
+Node 5551 at depth 13 with 1 records connects to 
+Node 5552 at depth 13 with 2 records connects to 
+Node 5553 at depth 13 with 1 records connects to 
+Node 5554 at depth 9 with 2 records connects to 
+Node 5556 at depth 9 with 1 records connects to 
+Node 5557 at depth 11 with 1 records connects to 
+Node 5558 at depth 11 with 2 records connects to 
+Node 5559 at depth 11 with 1 records connects to 
+Node 5560 at depth 10 with 1 records connects to 
+Node 5561 at depth 10 with 1 records connects to 
+Node 5562 at depth 10 with 9 records connects to 5722:5, 5723:2, 5724:2
+Node 5563 at depth 15 with 2 records connects to 
+Node 5564 at depth 15 with 3 records connects to 
+Node 5565 at depth 15 with 1 records connects to 
+Node 5567 at depth 11 with 1 records connects to 
+Node 5569 at depth 16 with 3 records connects to 
+Node 5571 at depth 16 with 1 records connects to 
+Node 5572 at depth 9 with 3 records connects to 
+Node 5573 at depth 9 with 1 records connects to 
+Node 5574 at depth 9 with 2 records connects to 
+Node 5575 at depth 6 with 2 records connects to 
+Node 5576 at depth 6 with 24 records connects to 5696:3, 5697:19, 5695:2
+Node 5577 at depth 6 with 1 records connects to 
+Node 5578 at depth 8 with 2 records connects to 
+Node 5579 at depth 8 with 3 records connects to 
+Node 5580 at depth 8 with 1 records connects to 
+Node 5581 at depth 14 with 2 records connects to 
+Node 5582 at depth 14 with 3 records connects to 5635:2, 5637:1
+Node 5583 at depth 14 with 3 records connects to 
+Node 5584 at depth 9 with 1 records connects to 
+Node 5585 at depth 9 with 5 records connects to 5640:1, 5638:1, 5639:3
+Node 5587 at depth 10 with 1 records connects to 
+Node 5588 at depth 10 with 5 records connects to 5725:1, 5726:4
+Node 5592 at depth 8 with 1 records connects to 
+Node 5593 at depth 7 with 4 records connects to 5779:2, 5780:1, 5781:1
+Node 5594 at depth 7 with 1 records connects to 
+Node 5595 at depth 7 with 3 records connects to 
+Node 5596 at depth 9 with 3 records connects to 
+Node 5597 at depth 9 with 1 records connects to 
+Node 5598 at depth 9 with 1 records connects to 
+Node 5599 at depth 10 with 2 records connects to 
+Node 5600 at depth 10 with 2 records connects to 
+Node 5601 at depth 10 with 1 records connects to 
+Node 5602 at depth 8 with 1 records connects to 
+Node 5608 at depth 8 with 1 records connects to 
+Node 5610 at depth 8 with 1 records connects to 
+Node 5611 at depth 10 with 2 records connects to 
+Node 5612 at depth 10 with 1 records connects to 
+Node 5613 at depth 10 with 1 records connects to 
+Node 5614 at depth 10 with 2 records connects to 
+Node 5616 at depth 10 with 1 records connects to 
+Node 5617 at depth 8 with 4 records connects to 5856:2, 5854:1, 5855:1
+Node 5618 at depth 8 with 3 records connects to 
+Node 5619 at depth 8 with 1 records connects to 
+Node 5620 at depth 9 with 1 records connects to 
+Node 5622 at depth 9 with 2 records connects to 
+Node 5623 at depth 11 with 1 records connects to 
+Node 5626 at depth 12 with 3 records connects to 5699:2, 5700:1
+Node 5627 at depth 12 with 2 records connects to 
+Node 5628 at depth 12 with 2 records connects to 
+Node 5629 at depth 10 with 2 records connects to 
+Node 5630 at depth 10 with 2 records connects to 
+Node 5631 at depth 10 with 1 records connects to 
+Node 5632 at depth 11 with 1 records connects to 
+Node 5635 at depth 15 with 2 records connects to 
+Node 5637 at depth 15 with 1 records connects to 
+Node 5638 at depth 10 with 1 records connects to 
+Node 5639 at depth 10 with 3 records connects to 
+Node 5640 at depth 10 with 1 records connects to 
+Node 5641 at depth 9 with 1 records connects to 
+Node 5644 at depth 5 with 3 records connects to 
+Node 5645 at depth 5 with 1 records connects to 
+Node 5646 at depth 5 with 1 records connects to 
+Node 5647 at depth 7 with 1 records connects to 
+Node 5648 at depth 7 with 2 records connects to 
+Node 5649 at depth 7 with 1 records connects to 
+Node 5650 at depth 4 with 45 records connects to 5941:7, 5942:11, 5965:27
+Node 5655 at depth 7 with 2 records connects to 
+Node 5668 at depth 15 with 2 records connects to 
+Node 5669 at depth 15 with 1 records connects to 
+Node 5670 at depth 15 with 2 records connects to 
+Node 5672 at depth 10 with 1 records connects to 
+Node 5673 at depth 10 with 1 records connects to 
+Node 5674 at depth 6 with 1 records connects to 
+Node 5675 at depth 6 with 2 records connects to 
+Node 5676 at depth 6 with 1 records connects to 
+Node 5677 at depth 12 with 1 records connects to 
+Node 5678 at depth 12 with 1 records connects to 
+Node 5679 at depth 12 with 1 records connects to 
+Node 5680 at depth 14 with 3 records connects to 
+Node 5681 at depth 14 with 1 records connects to 
+Node 5682 at depth 14 with 1 records connects to 
+Node 5683 at depth 8 with 3 records connects to 
+Node 5684 at depth 8 with 3 records connects to 
+Node 5685 at depth 8 with 1 records connects to 
+Node 5686 at depth 11 with 1 records connects to 
+Node 5687 at depth 11 with 3 records connects to 
+Node 5688 at depth 11 with 1 records connects to 
+Node 5689 at depth 11 with 2 records connects to 
+Node 5690 at depth 11 with 1 records connects to 
+Node 5691 at depth 11 with 1 records connects to 
+Node 5692 at depth 14 with 3 records connects to 
+Node 5693 at depth 14 with 1 records connects to 
+Node 5694 at depth 14 with 1 records connects to 
+Node 5695 at depth 7 with 2 records connects to 
+Node 5696 at depth 7 with 3 records connects to 
+Node 5697 at depth 7 with 19 records connects to 5731:1, 5732:16, 5733:2
+Node 5699 at depth 13 with 2 records connects to 
+Node 5700 at depth 13 with 1 records connects to 
+Node 5701 at depth 8 with 3 records connects to 
+Node 5702 at depth 8 with 2 records connects to 
+Node 5704 at depth 8 with 2 records connects to 
+Node 5705 at depth 8 with 1 records connects to 
+Node 5706 at depth 8 with 1 records connects to 
+Node 5707 at depth 10 with 5 records connects to 5809:2, 5810:2, 5811:1
+Node 5708 at depth 10 with 1 records connects to 
+Node 5709 at depth 10 with 7 records connects to 5784:5, 5782:1, 5783:1
+Node 5710 at depth 11 with 1 records connects to 
+Node 5712 at depth 11 with 7 records connects to 5785:4, 5786:1, 5787:2
+Node 5713 at depth 11 with 2 records connects to 
+Node 5714 at depth 11 with 2 records connects to 
+Node 5715 at depth 11 with 1 records connects to 
+Node 5716 at depth 11 with 3 records connects to 5788:2, 5790:1
+Node 5718 at depth 11 with 8 records connects to 5792:5, 5793:1, 5791:2
+Node 5719 at depth 6 with 14 records connects to 5908:10, 5909:1, 5910:3
+Node 5722 at depth 11 with 5 records connects to 5752:3, 5753:1, 5754:1
+Node 5723 at depth 11 with 2 records connects to 
+Node 5724 at depth 11 with 2 records connects to 
+Node 5725 at depth 11 with 1 records connects to 
+Node 5726 at depth 11 with 4 records connects to 6091:2, 6092:1, 6093:1
+Node 5731 at depth 8 with 1 records connects to 
+Node 5732 at depth 8 with 16 records connects to 5755:11, 5756:4, 5757:1
+Node 5733 at depth 8 with 2 records connects to 
+Node 5734 at depth 11 with 1 records connects to 
+Node 5735 at depth 11 with 1 records connects to 
+Node 5736 at depth 11 with 3 records connects to 
+Node 5740 at depth 10 with 6 records connects to 5836:4, 5837:1, 5838:1
+Node 5741 at depth 10 with 1 records connects to 
+Node 5742 at depth 10 with 3 records connects to 
+Node 5743 at depth 10 with 1 records connects to 
+Node 5744 at depth 10 with 4 records connects to 5812:2, 5813:1, 5814:1
+Node 5745 at depth 10 with 1 records connects to 
+Node 5746 at depth 9 with 2 records connects to 
+Node 5748 at depth 9 with 1 records connects to 
+Node 5750 at depth 14 with 1 records connects to 
+Node 5751 at depth 14 with 1 records connects to 
+Node 5752 at depth 12 with 3 records connects to 
+Node 5753 at depth 12 with 1 records connects to 
+Node 5754 at depth 12 with 1 records connects to 
+Node 5755 at depth 9 with 11 records connects to 5794:2, 5795:8, 5796:1
+Node 5756 at depth 9 with 4 records connects to 5816:2, 5817:1, 5815:1
+Node 5757 at depth 9 with 1 records connects to 
+Node 5758 at depth 8 with 1 records connects to 
+Node 5759 at depth 8 with 2 records connects to 
+Node 5760 at depth 8 with 3 records connects to 
+Node 5764 at depth 9 with 1 records connects to 
+Node 5765 at depth 9 with 1 records connects to 
+Node 5766 at depth 9 with 1 records connects to 
+Node 5767 at depth 12 with 2 records connects to 
+Node 5768 at depth 12 with 2 records connects to 
+Node 5769 at depth 12 with 1 records connects to 
+Node 5773 at depth 5 with 8 records connects to 5840:2, 5839:6
+Node 5774 at depth 5 with 1 records connects to 
+Node 5775 at depth 5 with 10 records connects to 5861:3, 5862:7
+Node 5776 at depth 11 with 2 records connects to 
+Node 5777 at depth 11 with 1 records connects to 
+Node 5778 at depth 11 with 1 records connects to 
+Node 5779 at depth 8 with 2 records connects to 
+Node 5780 at depth 8 with 1 records connects to 
+Node 5781 at depth 8 with 1 records connects to 
+Node 5782 at depth 11 with 1 records connects to 
+Node 5783 at depth 11 with 1 records connects to 
+Node 5784 at depth 11 with 5 records connects to 5842:2, 5843:2, 5844:1
+Node 5785 at depth 12 with 4 records connects to 6154:2, 6155:1, 6156:1
+Node 5786 at depth 12 with 1 records connects to 
+Node 5787 at depth 12 with 2 records connects to 
+Node 5788 at depth 12 with 2 records connects to 
+Node 5790 at depth 12 with 1 records connects to 
+Node 5791 at depth 12 with 2 records connects to 
+Node 5792 at depth 12 with 5 records connects to 5845:2, 5846:1, 5847:2
+Node 5793 at depth 12 with 1 records connects to 
+Node 5794 at depth 10 with 2 records connects to 
+Node 5795 at depth 10 with 8 records connects to 5819:6, 5820:2
+Node 5796 at depth 10 with 1 records connects to 
+Node 5798 at depth 4 with 23 records connects to 5953:8, 5977:15
+Node 5800 at depth 9 with 2 records connects to 
+Node 5801 at depth 9 with 1 records connects to 
+Node 5802 at depth 9 with 1 records connects to 
+Node 5803 at depth 7 with 6 records connects to 5866:1, 5867:4, 5868:1
+Node 5805 at depth 7 with 28 records connects to 5873:20, 5870:8
+Node 5809 at depth 11 with 2 records connects to 
+Node 5810 at depth 11 with 2 records connects to 
+Node 5811 at depth 11 with 1 records connects to 
+Node 5812 at depth 11 with 2 records connects to 
+Node 5813 at depth 11 with 1 records connects to 
+Node 5814 at depth 11 with 1 records connects to 
+Node 5815 at depth 10 with 1 records connects to 
+Node 5816 at depth 10 with 2 records connects to 
+Node 5817 at depth 10 with 1 records connects to 
+Node 5819 at depth 11 with 6 records connects to 5848:2, 5849:3, 5850:1
+Node 5820 at depth 11 with 2 records connects to 
+Node 5821 at depth 8 with 3 records connects to 
+Node 5822 at depth 8 with 1 records connects to 
+Node 5823 at depth 8 with 1 records connects to 
+Node 5824 at depth 10 with 3 records connects to 
+Node 5825 at depth 10 with 1 records connects to 
+Node 5826 at depth 10 with 1 records connects to 
+Node 5827 at depth 11 with 2 records connects to 
+Node 5828 at depth 11 with 1 records connects to 
+Node 5829 at depth 11 with 1 records connects to 
+Node 5836 at depth 11 with 4 records connects to 5881:2, 5882:1, 5883:1
+Node 5837 at depth 11 with 1 records connects to 
+Node 5838 at depth 11 with 1 records connects to 
+Node 5839 at depth 6 with 6 records connects to 5893:4, 5894:2
+Node 5840 at depth 6 with 2 records connects to 6002:1, 6003:1
+Node 5842 at depth 12 with 2 records connects to 
+Node 5843 at depth 12 with 2 records connects to 
+Node 5844 at depth 12 with 1 records connects to 
+Node 5845 at depth 13 with 2 records connects to 
+Node 5846 at depth 13 with 1 records connects to 
+Node 5847 at depth 13 with 2 records connects to 
+Node 5848 at depth 12 with 2 records connects to 
+Node 5849 at depth 12 with 3 records connects to 
+Node 5850 at depth 12 with 1 records connects to 
+Node 5851 at depth 8 with 2 records connects to 
+Node 5852 at depth 8 with 1 records connects to 
+Node 5853 at depth 8 with 1 records connects to 
+Node 5854 at depth 9 with 1 records connects to 
+Node 5855 at depth 9 with 1 records connects to 
+Node 5856 at depth 9 with 2 records connects to 
+Node 5861 at depth 6 with 3 records connects to 
+Node 5862 at depth 6 with 7 records connects to 6157:2, 6158:2, 6159:3
+Node 5866 at depth 8 with 1 records connects to 
+Node 5867 at depth 8 with 4 records connects to 6056:2, 6055:2
+Node 5868 at depth 8 with 1 records connects to 
+Node 5870 at depth 8 with 8 records connects to 5875:1, 5876:2, 5877:5
+Node 5873 at depth 8 with 20 records connects to 6037:16, 6038:2, 6039:2
+Node 5875 at depth 9 with 1 records connects to 
+Node 5876 at depth 9 with 2 records connects to 5899:1, 5949:1
+Node 5877 at depth 9 with 5 records connects to 6025:2, 6026:3
+Node 5878 at depth 6 with 3 records connects to 
+Node 5879 at depth 6 with 1 records connects to 
+Node 5880 at depth 6 with 2 records connects to 
+Node 5881 at depth 12 with 2 records connects to 
+Node 5882 at depth 12 with 1 records connects to 
+Node 5883 at depth 12 with 1 records connects to 
+Node 5884 at depth 5 with 1 records connects to 
+Node 5886 at depth 5 with 7 records connects to 5929:6, 5930:1
+Node 5893 at depth 7 with 4 records connects to 6112:2, 6113:1, 6114:1
+Node 5894 at depth 7 with 2 records connects to 6028:1, 6029:1
+Node 5899 at depth 10 with 1 records connects to 
+Node 5905 at depth 14 with 2 records connects to 
+Node 5906 at depth 14 with 1 records connects to 
+Node 5907 at depth 14 with 2 records connects to 
+Node 5908 at depth 7 with 10 records connects to 5920:3, 5921:5, 5922:2
+Node 5909 at depth 7 with 1 records connects to 
+Node 5910 at depth 7 with 3 records connects to 6115:1, 6116:1, 6117:1
+Node 5914 at depth 9 with 3 records connects to 
+Node 5915 at depth 9 with 1 records connects to 
+Node 5916 at depth 9 with 1 records connects to 
+Node 5920 at depth 8 with 3 records connects to 
+Node 5921 at depth 8 with 5 records connects to 6040:2, 6042:3
+Node 5922 at depth 8 with 2 records connects to 
+Node 5929 at depth 6 with 6 records connects to 5960:3, 5961:2, 5959:1
+Node 5930 at depth 6 with 1 records connects to 
+Node 5934 at depth 6 with 4 records connects to 6148:2, 6149:1, 6150:1
+Node 5935 at depth 9 with 1 records connects to 
+Node 5936 at depth 9 with 2 records connects to 
+Node 5937 at depth 9 with 1 records connects to 
+Node 5938 at depth 6 with 3 records connects to 
+Node 5941 at depth 5 with 7 records connects to 5980:6, 5982:1
+Node 5942 at depth 5 with 11 records connects to 5962:6, 5964:5
+Node 5949 at depth 10 with 1 records connects to 
+Node 5950 at depth 9 with 1 records connects to 
+Node 5952 at depth 9 with 1 records connects to 
+Node 5953 at depth 5 with 8 records connects to 6004:1, 6006:7
+Node 5959 at depth 7 with 1 records connects to 
+Node 5960 at depth 7 with 3 records connects to 
+Node 5961 at depth 7 with 2 records connects to 
+Node 5962 at depth 6 with 6 records connects to 5984:3, 5985:2, 5983:1
+Node 5964 at depth 6 with 5 records connects to 6120:2, 6118:2, 6119:1
+Node 5965 at depth 5 with 27 records connects to 5987:21, 5988:5, 5990:1
+Node 5968 at depth 9 with 2 records connects to 
+Node 5969 at depth 9 with 1 records connects to 
+Node 5970 at depth 9 with 5 records connects to 6058:3, 6059:1, 6060:1
+Node 5972 at depth 11 with 2 records connects to 
+Node 5973 at depth 11 with 1 records connects to 
+Node 5977 at depth 5 with 15 records connects to 6072:3, 6043:2, 6045:10
+Node 5980 at depth 6 with 6 records connects to 6016:1, 6017:5
+Node 5982 at depth 6 with 1 records connects to 
+Node 5983 at depth 7 with 1 records connects to 
+Node 5984 at depth 7 with 3 records connects to 
+Node 5985 at depth 7 with 2 records connects to 
+Node 5987 at depth 6 with 21 records connects to 5992:1, 5993:1, 5994:19
+Node 5988 at depth 6 with 5 records connects to 6096:1, 6094:4
+Node 5990 at depth 6 with 1 records connects to 
+Node 5992 at depth 7 with 1 records connects to 
+Node 5993 at depth 7 with 1 records connects to 
+Node 5994 at depth 7 with 19 records connects to 6048:8, 6046:1, 6047:10
+Node 5995 at depth 10 with 2 records connects to 
+Node 5996 at depth 10 with 1 records connects to 
+Node 5997 at depth 10 with 1 records connects to 
+Node 6002 at depth 7 with 1 records connects to 
+Node 6003 at depth 7 with 1 records connects to 
+Node 6004 at depth 6 with 1 records connects to 
+Node 6006 at depth 6 with 7 records connects to 6073:6, 6050:1
+Node 6010 at depth 11 with 4 records connects to 6067:3, 6068:1
+Node 6016 at depth 7 with 1 records connects to 
+Node 6017 at depth 7 with 5 records connects to 6032:2, 6033:1, 6031:2
+Node 6021 at depth 5 with 1 records connects to 
+Node 6022 at depth 12 with 1 records connects to 
+Node 6023 at depth 12 with 1 records connects to 
+Node 6024 at depth 12 with 2 records connects to 
+Node 6025 at depth 10 with 2 records connects to 
+Node 6026 at depth 10 with 3 records connects to 
+Node 6028 at depth 8 with 1 records connects to 
+Node 6029 at depth 8 with 1 records connects to 
+Node 6031 at depth 8 with 2 records connects to 
+Node 6032 at depth 8 with 2 records connects to 6082:1, 6083:1
+Node 6033 at depth 8 with 1 records connects to 
+Node 6034 at depth 11 with 1 records connects to 
+Node 6035 at depth 11 with 1 records connects to 
+Node 6036 at depth 11 with 3 records connects to 
+Node 6037 at depth 9 with 16 records connects to 6105:6, 6107:4, 6103:6
+Node 6038 at depth 9 with 2 records connects to 
+Node 6039 at depth 9 with 2 records connects to 
+Node 6040 at depth 9 with 2 records connects to 
+Node 6042 at depth 9 with 3 records connects to 
+Node 6043 at depth 6 with 2 records connects to 
+Node 6045 at depth 6 with 10 records connects to 6062:9, 6063:1
+Node 6046 at depth 8 with 1 records connects to 
+Node 6047 at depth 8 with 10 records connects to 6109:4, 6110:1, 6111:5
+Node 6048 at depth 8 with 8 records connects to 6066:1, 6076:7
+Node 6050 at depth 7 with 1 records connects to 
+Node 6052 at depth 5 with 1 records connects to 
+Node 6055 at depth 9 with 2 records connects to 
+Node 6056 at depth 9 with 2 records connects to 
+Node 6058 at depth 10 with 3 records connects to 
+Node 6059 at depth 10 with 1 records connects to 
+Node 6060 at depth 10 with 1 records connects to 
+Node 6062 at depth 7 with 9 records connects to 6085:5, 6086:2, 6087:2
+Node 6063 at depth 7 with 1 records connects to 
+Node 6066 at depth 9 with 1 records connects to 
+Node 6067 at depth 12 with 3 records connects to 
+Node 6068 at depth 12 with 1 records connects to 
+Node 6072 at depth 6 with 3 records connects to 
+Node 6073 at depth 7 with 6 records connects to 6088:3, 6090:3
+Node 6076 at depth 9 with 7 records connects to 6121:1, 6122:6
+Node 6082 at depth 9 with 1 records connects to 
+Node 6083 at depth 9 with 1 records connects to 
+Node 6085 at depth 8 with 5 records connects to 6097:2, 6098:2, 6099:1
+Node 6086 at depth 8 with 2 records connects to 
+Node 6087 at depth 8 with 2 records connects to 
+Node 6088 at depth 8 with 3 records connects to 6100:1, 6101:1, 6102:1
+Node 6090 at depth 8 with 3 records connects to 
+Node 6091 at depth 12 with 2 records connects to 
+Node 6092 at depth 12 with 1 records connects to 
+Node 6093 at depth 12 with 1 records connects to 
+Node 6094 at depth 7 with 4 records connects to 6130:2, 6131:1, 6132:1
+Node 6096 at depth 7 with 1 records connects to 
+Node 6097 at depth 9 with 2 records connects to 
+Node 6098 at depth 9 with 2 records connects to 
+Node 6099 at depth 9 with 1 records connects to 
+Node 6100 at depth 9 with 1 records connects to 
+Node 6101 at depth 9 with 1 records connects to 
+Node 6102 at depth 9 with 1 records connects to 
+Node 6103 at depth 10 with 6 records connects to 6133:3, 6134:2, 6135:1
+Node 6105 at depth 10 with 6 records connects to 6124:3, 6125:2, 6126:1
+Node 6107 at depth 10 with 4 records connects to 6152:2, 6153:1, 6151:1
+Node 6109 at depth 9 with 4 records connects to 6136:2, 6137:1, 6138:1
+Node 6110 at depth 9 with 1 records connects to 
+Node 6111 at depth 9 with 5 records connects to 6128:2, 6129:2, 6127:1
+Node 6112 at depth 8 with 2 records connects to 
+Node 6113 at depth 8 with 1 records connects to 
+Node 6114 at depth 8 with 1 records connects to 
+Node 6115 at depth 8 with 1 records connects to 
+Node 6116 at depth 8 with 1 records connects to 
+Node 6117 at depth 8 with 1 records connects to 
+Node 6118 at depth 7 with 2 records connects to 
+Node 6119 at depth 7 with 1 records connects to 
+Node 6120 at depth 7 with 2 records connects to 
+Node 6121 at depth 10 with 1 records connects to 
+Node 6122 at depth 10 with 6 records connects to 6139:3, 6140:2, 6141:1
+Node 6124 at depth 11 with 3 records connects to 
+Node 6125 at depth 11 with 2 records connects to 
+Node 6126 at depth 11 with 1 records connects to 
+Node 6127 at depth 10 with 1 records connects to 
+Node 6128 at depth 10 with 2 records connects to 
+Node 6129 at depth 10 with 2 records connects to 
+Node 6130 at depth 8 with 2 records connects to 
+Node 6131 at depth 8 with 1 records connects to 
+Node 6132 at depth 8 with 1 records connects to 
+Node 6133 at depth 11 with 3 records connects to 
+Node 6134 at depth 11 with 2 records connects to 
+Node 6135 at depth 11 with 1 records connects to 
+Node 6136 at depth 10 with 2 records connects to 
+Node 6137 at depth 10 with 1 records connects to 
+Node 6138 at depth 10 with 1 records connects to 
+Node 6139 at depth 11 with 3 records connects to 
+Node 6140 at depth 11 with 2 records connects to 
+Node 6141 at depth 11 with 1 records connects to 
+Node 6142 at depth 7 with 3 records connects to 
+Node 6143 at depth 7 with 1 records connects to 
+Node 6144 at depth 7 with 2 records connects to 
+Node 6145 at depth 9 with 2 records connects to 
+Node 6146 at depth 9 with 2 records connects to 
+Node 6147 at depth 9 with 1 records connects to 
+Node 6148 at depth 7 with 2 records connects to 
+Node 6149 at depth 7 with 1 records connects to 
+Node 6150 at depth 7 with 1 records connects to 
+Node 6151 at depth 11 with 1 records connects to 
+Node 6152 at depth 11 with 2 records connects to 
+Node 6153 at depth 11 with 1 records connects to 
+Node 6154 at depth 13 with 2 records connects to 
+Node 6155 at depth 13 with 1 records connects to 
+Node 6156 at depth 13 with 1 records connects to 
+Node 6157 at depth 7 with 2 records connects to 
+Node 6158 at depth 7 with 2 records connects to 
+Node 6159 at depth 7 with 3 records connects to 

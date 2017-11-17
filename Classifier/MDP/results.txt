@@ -1,0 +1,1246 @@
+Replay 246[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31921 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 122, 609
+Replay 213[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37994 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 122, 2956
+Replay 1232[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32618 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1174, 2557, 2561, 4069
+Replay 357[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16100 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1174, 2557, 2561, 4070
+Replay 466[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59912 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1174, 2557, 2561, 4070
+Replay 1149[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34791 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1174, 2557, 2561, 4071
+Replay 678[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6590 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1174, 2557, 2562
+Replay 600[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49539 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1174, 2558
+Replay 763[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37652 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1174, 2559
+Replay 137[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59115 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1176, 3376
+Replay 98[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27081 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1176, 3377, 4333
+Replay 1212[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1504 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1176, 3377, 4333
+Replay 199[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54125 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1176, 3377, 4334
+Replay 870[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38307 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1157, 1176, 3378
+Replay 270[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61833 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1167
+Replay 300[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28871 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1167
+Replay 1160[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60120 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 1167
+Replay 348[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6086 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 2517
+Replay 423[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24932 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1149, 2517
+Replay 362[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41649 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1154, 1172
+Replay 624[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14997 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1154, 1172
+Replay 1211[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43959 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1154, 1172
+Replay 97[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33091 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1154, 3738, 4540
+Replay 1137[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29896 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1154, 3738, 4540
+Replay 481[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26592 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1154, 3738, 4541
+Replay 515[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57270 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1154, 3738, 4542
+Replay 551[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58031 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1170, 2554
+Replay 392[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57247 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1170, 2556
+Replay 1175[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48866 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 446, 1170, 2556
+Replay 891[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33646 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 3317, 4522
+Replay 380[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48197 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 3317, 4523, 5428
+Replay 940[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56015 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 3317, 4523, 5428
+Replay 524[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7474 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 3317, 4523, 5429
+Replay 938[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64221 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 13, 3317, 4523, 5430
+Replay 509[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19174 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 13, 3317, 4524
+Replay 1163[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7950 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3019, 3574, 4357
+Replay 229[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37694 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3019, 3574, 4358, 5503
+Replay 94[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4092 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3019, 3574, 4358, 5504
+Replay 389[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45754 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3019, 3574, 4358, 5504
+Replay 577[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30671 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3019, 3574, 4358, 5504
+Replay 486[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51434 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3019, 3574, 4358, 5505
+Replay 369[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35405 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3019, 3578
+Replay 1202[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/692 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3344
+Replay 136[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48536 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3392, 5491
+Replay 862[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59024 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 796, 3392, 5492
+Replay 1177[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54683 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3037
+Replay 3[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33662 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4780, 4987, 5239
+Replay 34[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16336 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4780, 4987, 5240
+Replay 656[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46746 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4780, 4987, 5240
+Replay 1048[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4291 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4780, 4987, 5240
+Replay 458[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61934 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4780, 4988
+Replay 494[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10851 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4780, 4988
+Replay 528[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64047 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4781
+Replay 385[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55877 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4782
+Replay 889[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57323 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4214, 4782
+Replay 882[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26258 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4215
+Replay 1039[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29612 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4215
+Replay 1067[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53369 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 4, 14, 1894, 3816, 4215
+Replay 858[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5042 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3586, 4155
+Replay 434[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46057 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3586, 5279
+Replay 811[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35385 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3985, 3990
+Replay 1049[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29026 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3985, 3990
+Replay 456[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7943 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3985, 4557, 5599
+Replay 471[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33166 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3985, 4557, 5599
+Replay 504[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3375 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3985, 4557, 5600
+Replay 1105[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22257 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3985, 4557, 5600
+Replay 657[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4573 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3985, 4557, 5601
+Replay 231[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39228 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3993, 5206
+Replay 676[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21899 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3993, 5207
+Replay 1162[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59594 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3993, 5208
+Replay 1183[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60758 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3072, 3587, 3993, 5208
+Replay 107[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7438 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4285
+Replay 12[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31559 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4286, 5500, 5629
+Replay 420[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15040 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4286, 5500, 5629
+Replay 276[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2080 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4286, 5500, 5630
+Replay 310[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33649 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4286, 5500, 5630
+Replay 1154[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36695 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4286, 5500, 5631
+Replay 353[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33813 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4286, 5501
+Replay 710[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21305 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4286, 5502
+Replay 522[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30734 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4012, 4287
+Replay 1132[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31056 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 2198, 3600, 4014
+Replay 585[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58991 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 3098, 3617
+Replay 63[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35297 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2174, 3098, 3618
+Replay 161[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14067 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3438, 4354
+Replay 723[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28295 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3438, 4354
+Replay 1109[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34843 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3438, 4354
+Replay 224[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60689 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3438, 4355
+Replay 367[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38984 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4912, 5164
+Replay 435[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47780 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4912, 5165, 5452
+Replay 836[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48642 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4912, 5165, 5452
+Replay 956[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55732 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4912, 5165, 5453
+Replay 197[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2763 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4912, 5166
+Replay 930[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11052 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4912, 5166
+Replay 1184[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61493 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4912, 5166
+Replay 68[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40047 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4914, 5437, 5572
+Replay 598[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21805 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4914, 5437, 5572
+Replay 831[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54113 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4914, 5437, 5572
+Replay 296[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51136 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4914, 5437, 5573
+Replay 567[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10565 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4914, 5437, 5574
+Replay 893[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22367 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4914, 5437, 5574
+Replay 280[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10789 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4914, 5438
+Replay 791[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23908 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 3927, 4914, 5438
+Replay 293[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54855 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4835
+Replay 1060[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62316 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4835
+Replay 447[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61873 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4836, 5047
+Replay 1086[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3628 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4836, 5048, 5299
+Replay 594[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59960 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4836, 5048, 5300
+Replay 916[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42804 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4836, 5048, 5301
+Replay 1076[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5624 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4836, 5048, 5301
+Replay 998[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25816 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4836, 5049
+Replay 894[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34000 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4838, 5050
+Replay 174[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19922 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4838, 5051, 5377
+Replay 305[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23079 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4838, 5051, 5378
+Replay 312[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38662 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4493, 4838, 5051, 5379
+Replay 675[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1090 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4693
+Replay 734[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8148 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4876, 5002
+Replay 922[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35537 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4876, 5002
+Replay 242[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2180 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4876, 5247
+Replay 488[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4199 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4876, 5247
+Replay 102[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13424 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5224, 5539
+Replay 977[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/693 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5224, 5539
+Replay 162[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58562 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5224, 5540
+Replay 1127[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58247 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5224, 5540
+Replay 234[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6835 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5224, 5541
+Replay 356[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19874 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5225, 5386
+Replay 617[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17688 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5225, 5386
+Replay 416[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64265 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5225, 5387
+Replay 615[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41227 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5225, 5388
+Replay 46[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55992 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5226
+Replay 797[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23362 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4877, 5226
+Replay 752[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60935 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4694, 4878
+Replay 812[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51960 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4489, 4494, 4879
+Replay 980[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33923 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4491, 4498
+Replay 467[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2905 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4491, 4499
+Replay 636[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40816 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4491, 4499
+Replay 832[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32634 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4491, 4499
+Replay 172[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39283 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4491, 4500
+Replay 712[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34557 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4496, 5032, 5251
+Replay 503[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50551 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4496, 5032, 5253
+Replay 534[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10886 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4496, 5032, 5253
+Replay 455[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46686 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 22, 2335, 3441, 4267, 4496, 5034
+Replay 243[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60047 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4745, 5509
+Replay 960[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63181 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4745, 5509
+Replay 386[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57560 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4745, 5510
+Replay 842[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46565 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4745, 5511
+Replay 0[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39630 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5137, 5326
+Replay 233[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38640 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5137, 5326
+Replay 211[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41905 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5137, 5327
+Replay 351[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63578 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5137, 5328, 5467
+Replay 815[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27437 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5137, 5328, 5467
+Replay 431[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24476 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5137, 5328, 5468
+Replay 694[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37177 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5137, 5328, 5469
+Replay 523[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43034 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5264, 5357
+Replay 883[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64071 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5264, 5358
+Replay 90[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43688 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5359
+Replay 177[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49713 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5359
+Replay 1028[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49856 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5359
+Replay 541[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61346 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5360, 5680
+Replay 839[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50404 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5360, 5680
+Replay 1133[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35576 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5360, 5680
+Replay 570[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20060 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5360, 5681
+Replay 717[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37812 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5360, 5682
+Replay 545[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16275 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5361
+Replay 1164[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37766 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5138, 5265, 5361
+Replay 937[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44509 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5329
+Replay 119[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42674 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5470, 5905
+Replay 926[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48936 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5470, 5905
+Replay 474[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43643 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5470, 5906
+Replay 626[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11058 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5470, 5907
+Replay 809[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61688 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5470, 5907
+Replay 974[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61253 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5471
+Replay 1079[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5894 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5472, 5581
+Replay 1092[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15057 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5472, 5581
+Replay 268[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36767 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5472, 5582, 5635
+Replay 1236[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13790 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5472, 5582, 5635
+Replay 1084[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39552 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5472, 5582, 5637
+Replay 271[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62989 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5472, 5583
+Replay 802[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27689 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5472, 5583
+Replay 1026[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4879 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5330, 5472, 5583
+Replay 50[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5596 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5331, 5551
+Replay 464[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16235 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5331, 5552
+Replay 1208[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27868 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5331, 5552
+Replay 935[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44568 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 4746, 5139, 5331, 5553
+Replay 660[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21921 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 5092
+Replay 984[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14407 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 3818, 5092
+Replay 204[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47865 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 4547
+Replay 936[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29589 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3102, 4547
+Replay 1064[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23649 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2212, 3619
+Replay 703[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15852 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2213
+Replay 760[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60004 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2213
+Replay 266[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11995 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2214
+Replay 406[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29039 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2214
+Replay 1072[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4562 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 2209, 2214
+Replay 26[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24761 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 4997, 5242, 5347
+Replay 632[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1736 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 4997, 5242, 5347
+Replay 55[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46337 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 4997, 5242, 5348, 5557
+Replay 125[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7471 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 4997, 5242, 5348, 5558
+Replay 872[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41424 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 4997, 5242, 5348, 5558
+Replay 179[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39152 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 4997, 5242, 5348, 5559
+Replay 13[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22698 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 4997, 5243
+Replay 267[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14489 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 4997, 5243
+Replay 6[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18415 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5332, 5416
+Replay 1231[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7149 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5332, 5416
+Replay 682[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12936 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5332, 5417
+Replay 958[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61730 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5332, 5418
+Replay 151[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36596 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5333, 5473
+Replay 650[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27429 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5333, 5473
+Replay 693[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13196 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5333, 5474
+Replay 627[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7065 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5333, 5475
+Replay 578[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48418 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5334
+Replay 967[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38627 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 4483, 5156, 5334
+Replay 521[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37671 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 509, 4253, 5160
+Replay 101[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45800 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 994, 3733, 5362
+Replay 975[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44645 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 994, 3733, 5362
+Replay 1176[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52386 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 994, 3733, 5362
+Replay 690[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1524 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 105, 994, 3733, 5363
+Replay 917[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14715 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 994, 3733, 5364
+Replay 433[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41185 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 105, 994, 3734
+Replay 681[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51609 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 105, 994, 3735
+Replay 313[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63368 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2747, 4072
+Replay 890[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56592 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2747, 4074
+Replay 163[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39320 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3935, 4394
+Replay 1139[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49196 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3935, 4395
+Replay 1181[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49750 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3935, 4395
+Replay 95[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3316 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3935, 4864
+Replay 255[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43149 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3935, 4864
+Replay 562[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22893 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3935, 4864
+Replay 131[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49436 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3936, 4396, 4648, 4868
+Replay 910[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34812 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3936, 4396, 4648, 4868
+Replay 499[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63964 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3936, 4396, 4648, 5161
+Replay 154[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56853 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3936, 4396, 4649
+Replay 182[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44540 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3936, 4396, 4650
+Replay 299[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44379 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3936, 4653
+Replay 699[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57777 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3936, 4653
+Replay 901[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27275 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 3936, 4653
+Replay 530[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42845 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4957, 5235
+Replay 404[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5060 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4957, 5345
+Replay 1222[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29689 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4957, 5345
+Replay 702[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21554 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4958, 5076
+Replay 212[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47371 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4958, 5079, 5380
+Replay 387[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40771 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4958, 5079, 5381
+Replay 1172[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26127 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4958, 5079, 5381
+Replay 393[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49075 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4958, 5079, 5382
+Replay 902[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62960 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4958, 5179
+Replay 14[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11906 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5084
+Replay 39[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20900 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5084
+Replay 469[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56112 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5084
+Replay 1057[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63700 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5182
+Replay 1050[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35718 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5395
+Replay 1205[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21903 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5395
+Replay 1003[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50866 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5396
+Replay 383[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13156 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5397, 5563
+Replay 1030[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9040 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5397, 5563
+Replay 686[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4606 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5397, 5564
+Replay 728[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26068 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5397, 5564
+Replay 1063[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62095 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5397, 5564
+Replay 768[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15554 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5269, 5397, 5565
+Replay 1113[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45836 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5270
+Replay 886[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52217 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5080, 5085, 5184, 5271
+Replay 17[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33367 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5087, 5303, 5677
+Replay 482[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1342 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5087, 5303, 5678
+Replay 520[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58649 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5087, 5303, 5679
+Replay 376[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32127 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5087, 5304
+Replay 563[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49499 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5087, 5304
+Replay 449[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60187 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5089
+Replay 468[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19941 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 3475, 4644, 4959, 5089
+Replay 612[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8503 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5449
+Replay 249[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51657 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5450, 5686
+Replay 192[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46790 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5450, 5687
+Replay 537[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62053 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5450, 5687
+Replay 921[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27285 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5450, 5687
+Replay 918[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22228 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5450, 5688
+Replay 560[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49338 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5451
+Replay 999[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26491 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5451
+Replay 1226[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56949 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5136, 5451
+Replay 846[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62458 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5260, 5353
+Replay 145[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19434 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5260, 5354
+Replay 1006[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1413 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5260, 5354
+Replay 769[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26209 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 4740, 5260, 5355
+Replay 1034[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41167 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 2760, 4736, 5133
+Replay 381[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19284 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 3784, 3788
+Replay 634[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15041 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 3784, 4909, 5069
+Replay 201[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12736 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 3784, 4909, 5070
+Replay 707[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22490 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 3784, 4909, 5070
+Replay 1180[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24591 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 1766, 3784, 4909, 5070
+Replay 186[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38247 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5575
+Replay 559[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16884 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5575
+Replay 188[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4353 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5695
+Replay 1100[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49710 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5695
+Replay 279[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29799 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5696
+Replay 412[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12450 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5696
+Replay 770[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24096 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5696
+Replay 1093[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17660 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5731
+Replay 301[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50822 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5794
+Replay 826[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18904 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5794
+Replay 150[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19520 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5795, 5819, 5848
+Replay 1036[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61279 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5795, 5819, 5848
+Replay 36[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61639 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5795, 5819, 5849
+Replay 421[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24038 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5795, 5819, 5849
+Replay 1227[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7981 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5795, 5819, 5849
+Replay 779[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32801 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5795, 5819, 5850
+Replay 539[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51224 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5795, 5820
+Replay 1228[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64253 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5795, 5820
+Replay 754[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59289 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5755, 5796
+Replay 489[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18371 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5756, 5815
+Replay 588[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56100 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5756, 5816
+Replay 1041[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40162 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5756, 5816
+Replay 949[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25725 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5756, 5817
+Replay 868[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42998 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5732, 5757
+Replay 561[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20304 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5733
+Replay 955[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17124 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5576, 5697, 5733
+Replay 618[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33048 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 23, 832, 5456, 5577
+Replay 22[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50097 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5461, 5617, 5854
+Replay 590[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23428 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5461, 5617, 5855
+Replay 888[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54380 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5461, 5617, 5856
+Replay 1015[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16639 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5461, 5617, 5856
+Replay 426[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33244 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5461, 5618
+Replay 583[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38514 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5461, 5618
+Replay 1214[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47172 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5461, 5618
+Replay 647[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31861 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5461, 5619
+Replay 322[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52950 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5462, 5578
+Replay 964[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9473 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5462, 5578
+Replay 326[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48487 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5462, 5579
+Replay 461[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2231 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5462, 5579
+Replay 478[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6488 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5462, 5579
+Replay 736[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32361 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5292, 5462, 5580
+Replay 29[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9256 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5479, 5584
+Replay 130[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60868 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5479, 5585, 5638
+Replay 599[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23046 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5479, 5585, 5639
+Replay 963[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15449 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5479, 5585, 5639
+Replay 1021[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46156 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5479, 5585, 5639
+Replay 897[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23514 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5479, 5585, 5640
+Replay 1223[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6407 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5479, 5641
+Replay 116[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/784 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5482
+Replay 160[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59415 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5482
+Replay 661[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49304 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5482
+Replay 304[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47088 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5483, 5587
+Replay 500[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41054 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5483, 5588, 5725
+Replay 153[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45520 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5483, 5588, 5726, 6091
+Replay 1013[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2725 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5483, 5588, 5726, 6091
+Replay 355[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4758 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5483, 5588, 5726, 6092
+Replay 463[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55388 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5483, 5588, 5726, 6093
+Replay 1038[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39873 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5480, 5484
+Replay 306[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22511 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5481, 5620
+Replay 405[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33783 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5481, 5622
+Replay 480[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16412 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5404, 5481, 5622
+Replay 755[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6814 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5405
+Replay 71[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33921 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5406, 5683
+Replay 604[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47816 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5406, 5683
+Replay 907[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11760 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5406, 5683
+Replay 331[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47215 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5406, 5684
+Replay 576[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29636 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5406, 5684
+Replay 1201[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50644 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5406, 5684
+Replay 677[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28086 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 1188, 5295, 5406, 5685
+Replay 1171[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23525 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 5281, 5674
+Replay 807[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9749 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 5281, 5675
+Replay 1207[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5652 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 5, 24, 454, 5281, 5675
+Replay 992[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13925 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 454, 5281, 5676
+Replay 516[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17969 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 3630
+Replay 556[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51942 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 3630
+Replay 1045[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43958 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4289
+Replay 146[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64242 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5312, 5314, 5464
+Replay 1156[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45338 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5312, 5314, 5464
+Replay 157[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42201 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5312, 5314, 5465
+Replay 290[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46367 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5312, 5314, 5466
+Replay 501[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40217 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5312, 5315
+Replay 1044[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64362 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5319
+Replay 165[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62782 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5322, 5410
+Replay 843[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5740 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5322, 5410
+Replay 1237[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37749 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5322, 5410
+Replay 492[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8130 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5322, 5411, 5567
+Replay 781[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40055 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5322, 5411, 5632
+Replay 735[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43775 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5126, 5322, 5412
+Replay 75[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12831 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5383
+Replay 622[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25934 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 3126, 4017, 4697, 5383
+Replay 202[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29663 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 5, 24, 2246, 5422
+Replay 670[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29127 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 32, 789
+Replay 460[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40498 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 32, 949
+Replay 662[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54609 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 32, 949
+Replay 756[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39995 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 32, 949
+Replay 20[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13598 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4939, 5287
+Replay 168[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2384 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4939, 5288
+Replay 602[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26059 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4939, 5288
+Replay 881[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41546 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4939, 5288
+Replay 384[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37195 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4939, 5289
+Replay 459[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24475 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4940
+Replay 58[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25894 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4941, 5524
+Replay 795[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28366 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4941, 5524
+Replay 507[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19077 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4941, 5525
+Replay 903[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1727 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4941, 5525
+Replay 59[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30262 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4941, 5526
+Replay 665[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46566 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4567, 4941, 5526
+Replay 311[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8134 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4568, 4570
+Replay 425[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22742 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4568, 4571
+Replay 986[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7213 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4568, 4571
+Replay 226[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27995 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4568, 4572, 5116
+Replay 396[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1518 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4568, 4572, 5116
+Replay 1168[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24206 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4568, 4572, 5116
+Replay 951[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42719 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4568, 4572, 5117
+Replay 1134[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48296 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4568, 4572, 5118
+Replay 933[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39925 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4569
+Replay 991[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14222 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4087, 4569
+Replay 56[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48207 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4852, 5515
+Replay 490[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1560 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4852, 5515
+Replay 1094[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16615 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4852, 5515
+Replay 700[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52989 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4852, 5516
+Replay 187[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6465 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4852, 5517, 5776
+Replay 1153[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47551 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4852, 5517, 5776
+Replay 289[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25768 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4852, 5517, 5777
+Replay 611[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60776 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4852, 5517, 5778
+Replay 1095[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46604 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4853
+Replay 1143[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18357 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4576, 4854
+Replay 417[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22904 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4577, 4855, 5518
+Replay 1173[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17480 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4577, 4855, 5518
+Replay 658[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10232 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4577, 4855, 5519
+Replay 1082[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30188 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4577, 4855, 5520
+Replay 89[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26386 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4577, 5443
+Replay 118[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2581 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5446, 5827
+Replay 1019[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18805 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5446, 5827
+Replay 214[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/335 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5446, 5828
+Replay 784[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21483 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5446, 5829
+Replay 440[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56208 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5447
+Replay 1191[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11139 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5447
+Replay 1027[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/244 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5448
+Replay 1136[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43625 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5448
+Replay 1169[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/885 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5120, 5448
+Replay 76[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44597 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5121
+Replay 248[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46318 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4089, 4578, 5121
+Replay 542[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6522 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 2816, 4851
+Replay 547[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4645 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 4201, 4593
+Replay 790[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16789 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 4201, 4593
+Replay 923[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29587 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 247, 4201, 4858
+Replay 1096[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46816 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 33, 86, 2348
+Replay 1179[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26361 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 86, 2348
+Replay 450[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23081 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 33, 3157
+Replay 32[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8569 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4116, 4762
+Replay 148[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33009 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4116, 4762
+Replay 350[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28168 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4116, 4764, 5140
+Replay 878[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37294 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4116, 4764, 5140
+Replay 78[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55427 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4116, 4764, 5141
+Replay 1221[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49939 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4116, 4764, 5141
+Replay 359[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51572 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4116, 4764, 5142
+Replay 74[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53672 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4426, 4819
+Replay 200[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33561 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4426, 4819
+Replay 343[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40760 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4426, 4819
+Replay 672[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41239 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3386, 4426, 4821
+Replay 122[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31915 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4336, 4339
+Replay 195[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45422 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4336, 4339
+Replay 228[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33831 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4336, 4339
+Replay 782[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35561 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4336, 4340, 5026
+Replay 1185[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43229 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4336, 4340, 5027
+Replay 203[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14259 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4336, 4340, 5028
+Replay 614[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14882 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4336, 4340, 5028
+Replay 1120[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22325 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4336, 4341
+Replay 328[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50654 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4337, 4342
+Replay 965[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28192 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4337, 4342
+Replay 436[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47173 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 3387, 4337, 4344
+Replay 316[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59737 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 4122, 4130
+Replay 454[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34364 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 4122, 4131, 4765
+Replay 1194[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44929 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 4122, 4131, 4765
+Replay 801[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38410 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 4122, 4131, 4766
+Replay 1158[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54814 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1528, 4122, 4131, 4767
+Replay 388[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17675 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3755, 5009, 5248
+Replay 603[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50296 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3755, 5009, 5248
+Replay 966[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1021 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3755, 5009, 5249
+Replay 810[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44850 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3755, 5010, 5176
+Replay 772[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54435 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3755, 5010, 5178
+Replay 725[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52202 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3755, 5012
+Replay 856[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35065 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3755, 5012
+Replay 1233[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32222 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3756, 4179, 4921
+Replay 178[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60555 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3756, 4179, 4922
+Replay 181[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4470 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3756, 4179, 4922
+Replay 873[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47354 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3756, 4179, 4922
+Replay 1081[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22461 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3756, 4827
+Replay 81[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49186 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3757, 4903
+Replay 354[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49434 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3757, 4904, 5066
+Replay 569[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34281 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3757, 4904, 5067
+Replay 419[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52397 3.16.1 560180219.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3757, 4905, 5375
+Replay 845[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1825 3.16.1 560180197.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3757, 4905, 5376
+Replay 1035[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25129 3.16.1 560180215.000000_1st_death.csv]: 0, 1, 6, 761, 1529, 3757, 4905, 5376
+Replay 988[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57692 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4244
+Replay 45[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42410 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4245, 4481, 5596
+Replay 692[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32842 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4245, 4481, 5596
+Replay 1033[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60295 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4245, 4481, 5596
+Replay 60[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44837 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4245, 4481, 5597
+Replay 484[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55384 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4245, 4481, 5598
+Replay 708[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34673 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4245, 4482
+Replay 93[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20392 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4248, 5851
+Replay 1155[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33864 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4248, 5851
+Replay 180[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29678 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4248, 5852
+Replay 804[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35670 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3877, 4248, 5853
+Replay 939[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58450 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5560
+Replay 1008[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29879 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5561
+Replay 112[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35144 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5722, 5752
+Replay 320[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34573 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5722, 5752
+Replay 895[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27168 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5722, 5752
+Replay 413[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51990 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5722, 5753
+Replay 724[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23143 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5722, 5754
+Replay 415[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34255 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5723
+Replay 904[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24725 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5723
+Replay 263[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63868 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5724
+Replay 654[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2875 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5365, 5562, 5724
+Replay 789[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13369 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4639, 5367
+Replay 1114[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23766 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 4641
+Replay 1112[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21002 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4382, 5508
+Replay 495[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42259 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4383
+Replay 185[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31398 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4933, 5171, 5533
+Replay 1119[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59978 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4933, 5171, 5533
+Replay 536[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24131 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4933, 5171, 5535
+Replay 642[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31362 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3370, 3878, 4933, 5172
+Replay 430[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58587 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4108, 5593, 5779
+Replay 1192[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42816 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4108, 5593, 5779
+Replay 519[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54974 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4108, 5593, 5780
+Replay 1043[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59567 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4108, 5593, 5781
+Replay 908[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35934 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4108, 5594
+Replay 96[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59225 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4108, 5595
+Replay 183[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18775 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4108, 5595
+Replay 1174[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32871 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4108, 5595
+Replay 568[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28552 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4109
+Replay 751[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3242 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4110
+Replay 1080[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24773 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 710, 3371, 4110
+Replay 462[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45949 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1876
+Replay 47[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8552 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3761, 4180, 4447
+Replay 99[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4827 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3761, 4180, 4447
+Replay 297[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28962 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3761, 4180, 4448
+Replay 1037[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24941 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3761, 4180, 4449
+Replay 1187[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38933 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3761, 4180, 4449
+Replay 67[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10326 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3761, 4181
+Replay 798[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26245 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3761, 4181
+Replay 1193[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30050 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3761, 4182
+Replay 264[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10723 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3762
+Replay 330[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50199 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 34, 872, 1878, 3762
+Replay 315[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17006 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 4717
+Replay 663[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31680 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 5042, 5527
+Replay 1071[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27063 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 5042, 5527
+Replay 191[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32955 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 5042, 5528, 5530
+Replay 262[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27131 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 5042, 5528, 5531
+Replay 1150[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47856 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 5042, 5528, 5531
+Replay 1210[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39545 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 5042, 5528, 5532
+Replay 86[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5891 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 5042, 5529
+Replay 1245[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35092 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 2895, 5042, 5529
+Replay 945[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17637 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 35, 3294
+Replay 876[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40634 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 845, 2360
+Replay 496[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11802 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 845, 4908
+Replay 115[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50944 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2044, 2848, 2851, 3802
+Replay 746[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32312 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2044, 2848, 2851, 3802
+Replay 851[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29944 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2044, 2848, 2851, 3804
+Replay 535[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22507 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2044, 2848, 3487
+Replay 605[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58244 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2044, 2848, 3487
+Replay 402[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41825 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2044, 2854
+Replay 109[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54300 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2869
+Replay 368[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42745 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3364, 3731
+Replay 704[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3589 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3364, 3731
+Replay 601[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4179 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3364, 3732
+Replay 16[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18150 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3365
+Replay 205[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1287 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3365
+Replay 549[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35299 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3365
+Replay 196[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37734 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3366
+Replay 630[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44956 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3366
+Replay 946[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32800 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2870, 3366
+Replay 1235[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54169 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2862, 2871
+Replay 400[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20897 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2864, 3359, 5701
+Replay 745[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17950 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2864, 3359, 5701
+Replay 1011[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41243 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2864, 3359, 5701
+Replay 451[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49168 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2864, 3359, 5702
+Replay 1242[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32488 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2864, 3359, 5702
+Replay 582[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7724 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2864, 3729
+Replay 738[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42388 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2864, 3729
+Replay 1025[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62255 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 2864, 3729
+Replay 245[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57662 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4141, 4579
+Replay 848[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44754 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4141, 4579
+Replay 272[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29604 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4141, 4580
+Replay 364[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/913 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4141, 4581
+Replay 33[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23333 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4142, 5758
+Replay 277[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55664 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4142, 5759
+Replay 819[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3519 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4142, 5759
+Replay 321[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6597 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4142, 5760
+Replay 871[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29609 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4142, 5760
+Replay 1002[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/225 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4142, 5760
+Replay 716[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57144 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 7, 117, 1088, 2047, 3495, 4143
+Replay 57[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23493 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 2234
+Replay 128[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29808 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 2234
+Replay 726[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27601 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 2234
+Replay 134[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39761 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3823
+Replay 4[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22227 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4219
+Replay 314[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38588 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4220, 4783, 5767
+Replay 740[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/648 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4220, 4783, 5767
+Replay 372[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25742 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4220, 4783, 5768
+Replay 1140[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17526 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4220, 4783, 5768
+Replay 976[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8992 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4220, 4783, 5769
+Replay 347[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49828 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4220, 4784
+Replay 1147[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24563 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4220, 4784
+Replay 637[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52419 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4216, 4220, 4785
+Replay 540[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15533 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4217, 4223
+Replay 1213[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/286 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4217, 4224
+Replay 252[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53662 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4218, 4594
+Replay 483[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21488 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4218, 4596
+Replay 673[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11885 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3824, 4218, 4596
+Replay 43[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53074 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4375
+Replay 149[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61801 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4376, 5107
+Replay 766[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40954 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4376, 5108
+Replay 176[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11000 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4376, 5109
+Replay 761[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21687 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4376, 5109
+Replay 818[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32247 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4376, 5109
+Replay 621[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28204 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4377
+Replay 786[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48002 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4377
+Replay 813[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34665 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2221, 3123, 3825, 4377
+Replay 828[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56020 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2222, 2228
+Replay 1229[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38930 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2222, 3112
+Replay 190[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51321 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2223, 2230, 4306, 4618
+Replay 543[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15341 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2223, 2230, 4306, 4619
+Replay 747[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14716 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2223, 2230, 4307
+Replay 397[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60361 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2223, 2230, 4308
+Replay 129[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58459 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2223, 2231, 4711
+Replay 360[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41961 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2223, 2231, 4712
+Replay 674[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64132 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2223, 2231, 4712
+Replay 844[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19237 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 531, 2223, 3822
+Replay 477[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44530 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 2684, 2702
+Replay 554[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54755 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 2684, 2702
+Replay 111[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7868 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 2684, 2703
+Replay 291[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31606 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5323
+Replay 783[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17361 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5323
+Replay 841[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33098 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5486
+Replay 476[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20508 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5487, 5626, 5699
+Replay 962[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50075 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5487, 5626, 5699
+Replay 595[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48807 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5487, 5626, 5700
+Replay 104[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35003 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5487, 5627
+Replay 215[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11637 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5487, 5627
+Replay 758[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11372 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5487, 5628
+Replay 1051[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63692 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5487, 5628
+Replay 152[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42092 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5413, 5623
+Replay 352[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41721 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5128, 5324, 5414
+Replay 1225[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55662 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5130
+Replay 358[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43274 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5257, 5350, 5824
+Replay 764[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19787 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5257, 5350, 5824
+Replay 1022[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8902 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5257, 5350, 5824
+Replay 572[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37248 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5257, 5350, 5825
+Replay 834[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56715 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5257, 5350, 5826
+Replay 1121[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57618 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4732, 5257, 5419
+Replay 220[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11184 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4733, 5704
+Replay 1088[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55169 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4733, 5704
+Replay 221[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33890 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4733, 5705
+Replay 398[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9415 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4733, 5706
+Replay 863[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56740 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 45, 1745, 3466, 4734
+Replay 251[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11851 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4888, 5227
+Replay 256[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53259 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4888, 5228, 5542
+Replay 317[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48058 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4888, 5228, 5543
+Replay 651[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12592 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4888, 5228, 5544, 5689
+Replay 1102[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45708 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4888, 5228, 5544, 5689
+Replay 953[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24906 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4888, 5228, 5544, 5690
+Replay 1062[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23463 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4888, 5228, 5544, 5691
+Replay 108[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52077 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4889
+Replay 457[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28529 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4889
+Replay 709[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51047 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2458, 4890
+Replay 72[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4641 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5272, 5398
+Replay 82[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34184 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5272, 5398
+Replay 198[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21108 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5272, 5399
+Replay 83[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42683 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5272, 5400, 5611
+Replay 713[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45514 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5272, 5400, 5611
+Replay 339[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36810 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5272, 5400, 5612
+Replay 514[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55920 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5272, 5400, 5613
+Replay 432[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21696 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5273
+Replay 441[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1156 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2459, 5274
+Replay 244[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10127 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3284, 3709, 4538
+Replay 628[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39946 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3284, 3709, 4539
+Replay 840[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24547 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3284, 3711
+Replay 120[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47320 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3712
+Replay 721[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16901 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3713
+Replay 954[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9504 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3713
+Replay 1108[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29083 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3713
+Replay 544[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34199 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3714, 4168
+Replay 838[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14926 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3714, 4168
+Replay 961[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43741 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3714, 4168
+Replay 283[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42959 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3714, 4169, 5734
+Replay 335[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48799 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3714, 4169, 5735
+Replay 411[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2307 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3714, 4169, 5736
+Replay 1110[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26444 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3714, 4169, 5736
+Replay 1230[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13564 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3285, 3714, 4169, 5736
+Replay 19[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20914 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 1101, 2460, 3286
+Replay 144[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48168 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 2450, 5647
+Replay 308[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14855 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 2450, 5648
+Replay 1152[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31806 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 2450, 5648
+Replay 1029[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2148 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1094, 2450, 5649
+Replay 194[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24269 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 16, 369, 1096
+Replay 867[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52816 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 3289
+Replay 1111[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46994 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 16, 369, 3289
+Replay 15[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19963 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4924, 5284
+Replay 502[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45500 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4924, 5285
+Replay 28[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1114 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5168, 5710
+Replay 217[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17065 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5168, 5712, 5785, 6154
+Replay 854[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4395 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5168, 5712, 5785, 6154
+Replay 295[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6686 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5168, 5712, 5785, 6155
+Replay 533[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35025 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5168, 5712, 5785, 6156
+Replay 623[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23596 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5168, 5712, 5786
+Replay 671[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37041 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5168, 5712, 5787
+Replay 1166[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5168, 5712, 5787
+Replay 113[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15900 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5716, 5788
+Replay 1238[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2973 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5716, 5788
+Replay 1061[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21940 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5716, 5790
+Replay 18[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13401 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5718, 5791
+Replay 737[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35041 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5718, 5791
+Replay 2[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58635 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5718, 5792, 5845
+Replay 1118[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21462 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5718, 5792, 5845
+Replay 65[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25175 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5718, 5792, 5846
+Replay 788[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12682 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5718, 5792, 5847
+Replay 803[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53517 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5718, 5792, 5847
+Replay 853[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21092 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4186, 4925, 5266, 5718, 5793
+Replay 993[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30931 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3773, 4774
+Replay 230[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19048 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3914
+Replay 1085[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2699 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2254, 3914
+Replay 733[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47420 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2258, 4060, 4915
+Replay 531[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27022 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2258, 4060, 4916
+Replay 646[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52970 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2258, 4060, 4916
+Replay 743[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14822 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2258, 4060, 4917
+Replay 596[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1730 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2258, 4061
+Replay 235[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4616 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2258, 4062
+Replay 629[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29801 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 2258, 4062
+Replay 139[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5585 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5014
+Replay 340[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3257 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5200, 5536
+Replay 680[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26403 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5200, 5536
+Replay 553[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11323 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5200, 5537
+Replay 54[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34914 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5200, 5538, 6145
+Replay 909[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47366 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5200, 5538, 6145
+Replay 684[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38373 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5200, 5538, 6146
+Replay 947[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18670 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5200, 5538, 6146
+Replay 887[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63554 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5200, 5538, 6147
+Replay 1216[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44049 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5368, 5608
+Replay 877[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49923 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 556, 3148, 5368, 5610
+Replay 361[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49601 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 1044, 2428, 2437
+Replay 1078[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57152 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 1044, 2428, 2437
+Replay 1182[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43258 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 1044, 2428, 2437
+Replay 727[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34488 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 1044, 2428, 5655
+Replay 920[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4966 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 71, 1044, 2428, 5655
+Replay 608[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16393 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 1044, 4519
+Replay 1099[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9885 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 71, 1044, 4519
+Replay 591[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55341 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 71, 1044, 5277
+Replay 210[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59125 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 880, 5488, 5878
+Replay 443[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31920 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 880, 5488, 5878
+Replay 1001[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42801 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 880, 5488, 5878
+Replay 446[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47714 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 880, 5488, 5879
+Replay 589[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13475 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 880, 5488, 5880
+Replay 631[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4690 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 17, 880, 5488, 5880
+Replay 652[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59623 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 17, 880, 5489
+Replay 914[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40937 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 17, 880, 5490
+Replay 240[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13381 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3506, 5935
+Replay 292[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6556 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3506, 5936
+Replay 635[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22300 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3506, 5936
+Replay 593[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57707 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3506, 5937
+Replay 141[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13649 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3963, 5914
+Replay 944[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1376 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3963, 5914
+Replay 968[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59027 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3963, 5914
+Replay 225[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57165 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3963, 5915
+Replay 748[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15083 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 2921, 3963, 5916
+Replay 64[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50190 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 2902, 5498
+Replay 757[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52611 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4528, 4843
+Replay 952[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58448 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4528, 4843
+Replay 282[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39834 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4528, 4844
+Replay 485[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19607 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4529
+Replay 278[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62871 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4530, 5821
+Replay 287[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12884 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4530, 5821
+Replay 898[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17730 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4530, 5821
+Replay 366[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56255 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4530, 5822
+Replay 753[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35176 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3523, 4530, 5823
+Replay 193[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12589 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3958
+Replay 1116[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24535 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2899, 3958
+Replay 274[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18724 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 3538
+Replay 1016[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36025 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 3538
+Replay 35[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63787 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 4743, 5218, 5338, 5746
+Replay 1240[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35450 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 4743, 5218, 5338, 5746
+Replay 1101[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21698 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 4743, 5218, 5338, 5748
+Replay 817[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24728 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 4743, 5218, 5339, 5554
+Replay 896[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33487 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 4743, 5218, 5339, 5554
+Replay 375[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39823 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 4743, 5218, 5339, 5556
+Replay 399[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49647 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 2933, 4743, 5219
+Replay 31[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42870 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 4948, 5230
+Replay 117[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17013 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 4948, 5230
+Replay 711[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31687 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 4948, 5232, 5713
+Replay 741[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33427 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 4948, 5232, 5713
+Replay 344[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52168 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 4948, 5232, 5714
+Replay 780[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36514 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 4948, 5232, 5714
+Replay 928[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49747 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 4948, 5232, 5715
+Replay 374[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17357 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 5212, 5672
+Replay 899[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24485 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 4276, 5212, 5673
+Replay 91[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10351 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4270, 5602
+Replay 689[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38772 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4793
+Replay 7[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38664 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5707, 5809
+Replay 38[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22466 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5707, 5809
+Replay 338[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46423 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5707, 5810
+Replay 1157[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29729 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5707, 5810
+Replay 1023[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52528 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5707, 5811
+Replay 816[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32010 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5708
+Replay 40[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61892 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5709, 5782
+Replay 371[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43746 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5709, 5783
+Replay 219[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9989 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5709, 5784, 5842
+Replay 972[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37705 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5709, 5784, 5842
+Replay 668[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15088 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5709, 5784, 5843
+Replay 1097[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51218 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5709, 5784, 5843
+Replay 800[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30840 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 4794, 5709, 5784, 5844
+Replay 329[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38053 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 5432, 5614
+Replay 714[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57724 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 5432, 5614
+Replay 1077[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19321 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4279, 5432, 5616
+Replay 424[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25442 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4281
+Replay 1220[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35278 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4281
+Replay 11[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20907 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5740, 5836, 5881
+Replay 1206[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20295 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5740, 5836, 5881
+Replay 996[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42397 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5740, 5836, 5882
+Replay 1142[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9310 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5740, 5836, 5883
+Replay 23[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12030 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5740, 5837
+Replay 931[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10416 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5740, 5838
+Replay 121[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14623 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5741
+Replay 498[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12623 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5742
+Replay 696[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6526 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5742
+Replay 823[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16697 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5215, 5742
+Replay 184[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21429 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5216, 5743
+Replay 223[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16342 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5216, 5744, 5812
+Replay 586[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39291 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5216, 5744, 5812
+Replay 506[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22248 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5216, 5744, 5813
+Replay 869[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17089 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5216, 5744, 5814
+Replay 765[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11572 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3964, 4271, 4608, 5216, 5745
+Replay 207[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24840 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3966, 4403, 5425
+Replay 1068[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2157 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3966, 4403, 5425
+Replay 70[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35783 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3966, 4403, 5427, 5800
+Replay 767[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13921 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3966, 4403, 5427, 5800
+Replay 303[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44896 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3966, 4403, 5427, 5801
+Replay 749[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41422 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3966, 4403, 5427, 5802
+Replay 775[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15692 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 584, 3512, 3966, 4813
+Replay 597[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31254 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 585, 4158
+Replay 683[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3266 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 8, 340, 585, 4158
+Replay 1091[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62681 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 8, 340, 585, 4158
+Replay 437[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29009 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 8, 340, 585, 5017
+Replay 639[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44822 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 25, 944, 2373
+Replay 21[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11804 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 944, 3238, 4102
+Replay 140[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39787 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 944, 3238, 4102
+Replay 337[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53263 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 25, 944, 3238, 4103
+Replay 794[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39071 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 944, 3238, 4103
+Replay 833[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39957 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 944, 3238, 4103
+Replay 409[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8876 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 944, 3238, 4761
+Replay 73[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7509 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3046, 3580
+Replay 429[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33919 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3046, 3580
+Replay 587[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32767 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3046, 3580
+Replay 641[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28644 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3046, 3582, 4150
+Replay 985[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1838 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3046, 3582, 4152, 4439
+Replay 987[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7437 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3046, 3582, 4152, 4440
+Replay 874[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29041 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3048, 3050
+Replay 1145[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24903 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3048, 3050
+Replay 548[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62803 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3048, 4316
+Replay 465[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11302 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3583
+Replay 1054[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54506 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 25, 2012, 3583
+Replay 1195[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17744 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 403, 3368, 4894
+Replay 785[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61860 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 26, 403, 3368, 4895
+Replay 814[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26123 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 403, 3368, 4896, 5063
+Replay 983[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21715 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 403, 3368, 4896, 5064
+Replay 1131[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47659 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 26, 403, 3368, 4896, 5064
+Replay 861[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48985 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 26, 403, 3369
+Replay 1059[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28436 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 403, 3369
+Replay 1200[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20028 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 403, 3369
+Replay 143[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14659 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 565, 5644
+Replay 850[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56924 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 26, 565, 5644
+Replay 1130[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52221 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 26, 565, 5644
+Replay 448[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/751 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 26, 565, 5645
+Replay 592[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10866 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 565, 5646
+Replay 579[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51465 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 26, 971, 2405, 3276
+Replay 835[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37747 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 971, 2405, 3706, 4045
+Replay 884[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20072 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 971, 2405, 3706, 4045
+Replay 1170[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35125 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 971, 2405, 3706, 4045
+Replay 581[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46172 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 26, 971, 2405, 3706, 4047
+Replay 323[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33154 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 971, 3272, 3851
+Replay 613[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43038 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 26, 971, 3272, 3852
+Replay 51[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49798 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3211, 4318
+Replay 159[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58020 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3211, 4319
+Replay 237[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27116 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3211, 4320, 4798
+Replay 42[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19458 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3211, 4320, 4799
+Replay 250[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18181 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3211, 4320, 4799
+Replay 273[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19260 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3211, 4320, 4799
+Replay 1098[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57181 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3211, 4320, 4800
+Replay 394[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32249 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3680
+Replay 442[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40797 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3680
+Replay 1178[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26985 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 2320, 3680
+Replay 1126[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19873 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2290, 3427
+Replay 1209[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52614 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3199, 4516
+Replay 778[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58691 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3199, 4518
+Replay 824[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63489 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 3849, 4237
+Replay 238[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28829 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 3849, 4238, 4477, 5209, 5668
+Replay 919[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18138 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 3849, 4238, 4477, 5209, 5668
+Replay 325[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54948 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 3849, 4238, 4477, 5209, 5669
+Replay 370[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49167 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 3849, 4238, 4477, 5209, 5670
+Replay 875[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9567 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 3849, 4238, 4477, 5209, 5670
+Replay 847[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29790 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 3849, 4238, 4477, 5211
+Replay 319[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58630 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 3849, 4238, 4478
+Replay 655[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61180 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 4236
+Replay 892[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35722 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 4236
+Replay 294[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35325 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 4378
+Replay 552[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3389 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 4378
+Replay 1239[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60185 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3194, 3201, 4378
+Replay 133[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57292 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4816, 5221, 5341
+Replay 206[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43781 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4816, 5221, 5341
+Replay 619[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4111 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4816, 5221, 5342
+Replay 879[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58557 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4816, 5221, 5343
+Replay 997[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13121 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4816, 5221, 5343
+Replay 1165[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12177 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4816, 5221, 5343
+Replay 497[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62925 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4816, 5222
+Replay 667[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24079 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4816, 5223
+Replay 241[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30534 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4818, 5434, 5569
+Replay 445[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54763 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4818, 5434, 5569
+Replay 564[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36843 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4818, 5434, 5569
+Replay 470[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59553 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4818, 5434, 5571
+Replay 990[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47678 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4818, 5435
+Replay 1125[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37237 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4818, 5436
+Replay 979[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/660 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4416, 4993
+Replay 41[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60055 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4417, 4936
+Replay 1244[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41346 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4417, 4936
+Replay 275[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23215 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4417, 4937
+Replay 685[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63396 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4417, 4937
+Replay 1053[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39766 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4417, 4937
+Replay 759[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1043 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4417, 4938
+Replay 771[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37771 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4417, 4938
+Replay 981[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23442 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 3675, 4417, 4938
+Replay 346[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12631 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 4900
+Replay 653[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14781 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3666, 4900
+Replay 5[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63861 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3667
+Replay 584[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25694 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3202, 3671
+Replay 105[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26178 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3203, 3677, 4034
+Replay 849[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30258 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3203, 3677, 4034
+Replay 1090[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51695 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3203, 3677, 4420
+Replay 706[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51529 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3203, 4300
+Replay 1075[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48158 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3203, 4300
+Replay 403[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11106 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3203, 4612
+Replay 1167[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60875 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2315, 3195, 3203, 4612
+Replay 164[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49702 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2316
+Replay 742[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18695 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 2316
+Replay 644[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30633 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2297, 5592
+Replay 80[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29596 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3430, 4351
+Replay 852[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6741 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3430, 4351
+Replay 1135[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44118 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3430, 4352
+Replay 92[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48225 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3432, 3919
+Replay 334[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41552 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3432, 3919
+Replay 566[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11187 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3432, 3919
+Replay 994[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8352 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3432, 3920, 4261
+Replay 401[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48645 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3432, 3920, 4262
+Replay 1005[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16902 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3432, 3921, 4264
+Replay 924[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56948 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 2323, 3432, 3921, 4266
+Replay 880[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53066 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 3176, 3649
+Replay 513[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60893 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 3176, 3650, 4534
+Replay 573[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39559 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 3176, 3650, 4535
+Replay 1087[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42272 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 3176, 3650, 4536
+Replay 1144[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58124 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 3176, 3650, 4536
+Replay 511[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28047 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 3176, 4018
+Replay 731[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50301 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2291, 3176, 4018
+Replay 37[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38343 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3655, 4159
+Replay 48[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31440 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3655, 4160, 4768
+Replay 1234[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5167 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3655, 4160, 4768
+Replay 444[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17312 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3655, 4160, 4769
+Replay 538[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15924 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3655, 4160, 4770
+Replay 1159[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8983 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3655, 4160, 4770
+Replay 422[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44808 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3655, 4161
+Replay 342[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54041 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3656, 4022, 5495
+Replay 927[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37913 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3656, 4022, 5496
+Replay 1032[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40955 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3652, 3656, 4023
+Replay 62[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/57011 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3653, 3660
+Replay 1151[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49797 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3653, 3660
+Replay 302[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56958 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 3653, 4361
+Replay 1115[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53368 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 4024, 4293
+Replay 171[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21218 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3178, 4024, 4951
+Replay 1065[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18821 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4756
+Replay 170[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48576 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5236, 5389
+Replay 505[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14411 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5236, 5389
+Replay 169[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34567 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5236, 5390
+Replay 100[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16016 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5237, 5545, 5692
+Replay 438[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36345 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5237, 5545, 5692
+Replay 1215[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30715 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5237, 5545, 5692
+Replay 288[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53872 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5237, 5545, 5693
+Replay 1031[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41349 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5237, 5545, 5694
+Replay 805[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47254 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5237, 5546
+Replay 857[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40717 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5237, 5547, 5750
+Replay 866[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19326 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5237, 5547, 5751
+Replay 87[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47488 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5238, 5458
+Replay 762[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46295 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5238, 5459
+Replay 806[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/130 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5238, 5460
+Replay 982[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2938 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5238, 5460
+Replay 1198[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61691 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4978, 5238, 5460
+Replay 1024[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61030 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4979
+Replay 1103[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28850 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4979
+Replay 517[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45879 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4757, 4980
+Replay 527[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37963 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4099, 4758
+Replay 633[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51927 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4100
+Replay 79[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50990 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4101, 5098
+Replay 1204[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6249 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4101, 5098
+Replay 905[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11197 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3179, 4101, 5100
+Replay 269[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1686 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3180
+Replay 643[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13819 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3180
+Replay 1083[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/620 3.16.1 560180197.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2309, 3180
+Replay 580[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51974 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 108, 594, 2292, 2326
+Replay 620[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41528 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1768
+Replay 9[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14175 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3026, 4513, 5764
+Replay 10[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33378 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3026, 4513, 5765
+Replay 114[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30030 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3026, 4513, 5766
+Replay 915[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27988 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3026, 4514
+Replay 720[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28090 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3026, 4515
+Replay 49[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20775 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3028, 4312
+Replay 307[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13071 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3028, 4312
+Replay 327[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14831 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3028, 4313
+Replay 532[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25679 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 108, 837, 1770, 3028, 4928
+Replay 27[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59236 3.16.1 560180219.000000_1st_death.csv]: 0, 2, 9, 27, 432
+Replay 1055[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28901 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 432
+Replay 625[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15541 3.16.1 560180215.000000_1st_death.csv]: 0, 2, 9, 27, 2408
+Replay 730[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35267 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 4728, 6021
+Replay 1219[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37726 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 4728, 6052
+Replay 1020[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42257 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5953, 6004
+Replay 88[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22588 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5953, 6006, 6050
+Replay 77[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32556 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5953, 6006, 6073, 6088, 6100
+Replay 158[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13955 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5953, 6006, 6073, 6088, 6101
+Replay 957[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20635 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5953, 6006, 6073, 6088, 6102
+Replay 695[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10669 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5953, 6006, 6073, 6090
+Replay 1074[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5137 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5953, 6006, 6073, 6090
+Replay 1138[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28119 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5953, 6006, 6073, 6090
+Replay 135[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61099 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6043
+Replay 261[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40662 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6043
+Replay 906[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59290 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6085, 6097
+Replay 1010[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47114 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6085, 6097
+Replay 258[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25360 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6085, 6098
+Replay 1122[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24094 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6085, 6098
+Replay 1141[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5746 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6085, 6099
+Replay 378[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5068 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6086
+Replay 666[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50291 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6086
+Replay 61[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18722 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6087
+Replay 822[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34698 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6062, 6087
+Replay 787[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44091 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6045, 6063
+Replay 281[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/40249 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6072
+Replay 821[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5948 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6072
+Replay 1007[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1399 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 10, 964, 5798, 5977, 6072
+Replay 645[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38595 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 4508
+Replay 900[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41953 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 4508
+Replay 1040[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28615 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 4508
+Replay 365[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29377 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5773, 5839, 5893, 6112
+Replay 1243[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21435 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5773, 5839, 5893, 6112
+Replay 408[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21489 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5773, 5839, 5893, 6113
+Replay 744[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46832 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5773, 5839, 5893, 6114
+Replay 265[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46359 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5773, 5839, 5894, 6028
+Replay 799[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11205 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5773, 5839, 5894, 6029
+Replay 705[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9432 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5773, 5840, 6002
+Replay 773[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10792 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5773, 5840, 6003
+Replay 925[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49952 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5774
+Replay 167[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26562 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5861
+Replay 414[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47503 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5861
+Replay 698[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47840 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5861
+Replay 253[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33225 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5862, 6157
+Replay 859[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47567 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5862, 6157
+Replay 336[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39083 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5862, 6158
+Replay 1189[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59895 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5862, 6158
+Replay 391[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60997 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5862, 6159
+Replay 574[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42935 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5862, 6159
+Replay 950[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17090 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 10, 1525, 5053, 5775, 5862, 6159
+Replay 103[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20594 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 3314
+Replay 373[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13842 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 3314
+Replay 1014[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15061 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 3314
+Replay 69[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21121 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5920
+Replay 688[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23642 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5920
+Replay 739[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15037 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5920
+Replay 208[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10466 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5921, 6040
+Replay 659[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6671 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5921, 6040
+Replay 648[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53327 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5921, 6042
+Replay 825[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39407 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5921, 6042
+Replay 1129[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58368 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5921, 6042
+Replay 510[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6378 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5922
+Replay 855[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15120 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5908, 5922
+Replay 995[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23424 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5909
+Replay 1106[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54746 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5910, 6115
+Replay 640[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41008 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5910, 6116
+Replay 774[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21328 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 2508, 5719, 5910, 6117
+Replay 697[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23244 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1132, 5192
+Replay 718[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14773 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1483, 5884
+Replay 218[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58529 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 91, 1483, 5886, 5929, 5959
+Replay 472[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49669 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 91, 1483, 5886, 5929, 5960
+Replay 475[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26149 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1483, 5886, 5929, 5960
+Replay 969[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/393 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 12, 91, 1483, 5886, 5929, 5960
+Replay 44[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25359 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1483, 5886, 5929, 5961
+Replay 943[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/11180 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1483, 5886, 5929, 5961
+Replay 453[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30817 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 91, 1483, 5886, 5930
+Replay 732[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41893 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 363, 2120, 4966
+Replay 236[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/6108 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 363, 2120, 5934, 6148
+Replay 1069[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17979 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 363, 2120, 5934, 6148
+Replay 526[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/36428 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 363, 2120, 5934, 6149
+Replay 793[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56667 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 363, 2120, 5934, 6150
+Replay 227[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63839 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 363, 3053, 4723
+Replay 479[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63208 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 363, 3053, 4724
+Replay 1148[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3044 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 12, 119, 363, 3053, 4725
+Replay 285[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35337 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4195, 4467
+Replay 390[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2561 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4195, 4467
+Replay 1224[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53669 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4195, 4467
+Replay 1073[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31103 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4195, 4468
+Replay 85[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38741 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4672, 4960, 6022
+Replay 318[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34171 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4672, 4960, 6023
+Replay 571[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/655 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4672, 4960, 6024
+Replay 679[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47517 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4672, 4960, 6024
+Replay 216[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29260 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4672, 4961
+Replay 885[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43969 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4672, 4961
+Replay 247[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13823 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4672, 4962
+Replay 913[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4969 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4672, 4962
+Replay 473[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27492 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4669, 4674
+Replay 1052[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17575 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4671, 5122, 6034
+Replay 363[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48350 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4671, 5122, 6035
+Replay 175[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22131 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4671, 5122, 6036
+Replay 508[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/25553 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4671, 5122, 6036
+Replay 1107[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/13712 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4671, 5122, 6036
+Replay 729[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37188 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4671, 5123
+Replay 259[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12649 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4873
+Replay 428[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39114 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4873
+Replay 1009[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34325 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4874
+Replay 1199[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30161 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4874
+Replay 209[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59515 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4875, 5972
+Replay 607[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51068 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4875, 5972
+Replay 827[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54781 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4875, 5973
+Replay 1[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33081 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4875, 6010, 6067
+Replay 84[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/51392 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4875, 6010, 6067
+Replay 1190[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55213 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4875, 6010, 6067
+Replay 1047[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28319 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4474, 4677, 4875, 6010, 6068
+Replay 126[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37165 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4679, 4687
+Replay 865[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60426 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4679, 4688
+Replay 1186[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32158 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4679, 4689
+Replay 156[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49152 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4680, 4681
+Replay 379[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33229 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4680, 4681
+Replay 286[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23840 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4680, 4682
+Replay 1058[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14912 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4680, 4682
+Replay 1042[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55589 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4680, 4683
+Replay 25[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42431 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3790, 4197, 4475, 4684
+Replay 53[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21727 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4624, 4627, 5995
+Replay 664[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4129 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4624, 4627, 5995
+Replay 66[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56464 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4624, 4627, 5996
+Replay 239[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/42675 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4624, 4627, 5997
+Replay 382[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63962 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4624, 4628
+Replay 123[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26236 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4624, 4629
+Replay 189[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19142 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4624, 4629
+Replay 1197[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29693 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4624, 4629
+Replay 127[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26508 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4625, 5968
+Replay 750[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/23422 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4625, 5968
+Replay 257[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24578 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4625, 5969
+Replay 324[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58436 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4625, 5970, 6058
+Replay 719[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18168 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4625, 5970, 6058
+Replay 912[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49192 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4625, 5970, 6058
+Replay 491[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19250 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4625, 5970, 6059
+Replay 715[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46535 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4625, 5970, 6060
+Replay 298[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21273 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4955, 5950
+Replay 1124[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/28777 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4369, 4955, 5952
+Replay 911[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/48455 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4371, 4636
+Replay 24[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/47797 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4371, 4637
+Replay 487[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45494 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4371, 4637
+Replay 978[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54572 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4371, 4637
+Replay 341[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16524 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4632, 4634
+Replay 941[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14612 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 2765, 3795, 4632, 4635
+Replay 529[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2190 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 3351, 4330, 4622
+Replay 173[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30041 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 3351, 4330, 4861
+Replay 830[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60523 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 3351, 4330, 4861
+Replay 1146[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35024 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 3351, 4331, 5024
+Replay 1012[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22765 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 3351, 4331, 5025
+Replay 971[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10231 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 3351, 4332, 4930
+Replay 860[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41006 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 12, 119, 1797, 3351, 4332, 4932
+Replay 518[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37272 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5512, 6142
+Replay 610[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2690 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5512, 6142
+Replay 973[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4150 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5512, 6142
+Replay 777[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/18338 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5512, 6143
+Replay 837[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/21941 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5512, 6144
+Replay 934[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8955 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5512, 6144
+Replay 418[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16894 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5803, 5866
+Replay 124[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53568 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5803, 5867, 6055
+Replay 1196[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34148 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5803, 5867, 6055
+Replay 284[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/26504 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5803, 5867, 6056
+Replay 1018[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39859 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5803, 5867, 6056
+Replay 333[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/59233 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5803, 5868
+Replay 30[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56363 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5870, 5875
+Replay 1218[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/53378 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5870, 5876, 5899
+Replay 407[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10081 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5870, 5876, 5949
+Replay 132[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/8544 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5870, 5877, 6025
+Replay 1203[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58702 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5870, 5877, 6025
+Replay 332[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16511 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5870, 5877, 6026
+Replay 427[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/45140 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5870, 5877, 6026
+Replay 525[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43973 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5870, 5877, 6026
+Replay 254[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2229 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6103, 6133
+Replay 377[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/44159 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6103, 6133
+Replay 1066[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/20384 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6103, 6133
+Replay 345[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/35323 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6103, 6134
+Replay 1217[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32876 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6103, 6134
+Replay 808[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/62573 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6103, 6135
+Replay 309[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16800 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6105, 6124
+Replay 410[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5723 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6105, 6124
+Replay 1089[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4706 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6105, 6124
+Replay 512[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/60460 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6105, 6125
+Replay 1241[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50766 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6105, 6125
+Replay 948[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41115 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6105, 6126
+Replay 155[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/19419 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6107, 6151
+Replay 260[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/32748 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6107, 6152
+Replay 1117[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31941 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6107, 6152
+Replay 616[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38009 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6037, 6107, 6153
+Replay 546[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33489 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6038
+Replay 929[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37417 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6038
+Replay 722[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27708 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6039
+Replay 1070[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/4559 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5514, 5805, 5873, 6039
+Replay 222[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61359 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5938
+Replay 349[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63419 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5938
+Replay 864[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7346 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4802, 5938
+Replay 959[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/41578 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 4321, 4805
+Replay 110[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5995 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5941, 5980, 6016
+Replay 8[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/50710 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5941, 5980, 6017, 6031
+Replay 649[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/46955 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5941, 5980, 6017, 6031
+Replay 932[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2729 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5941, 5980, 6017, 6032, 6082
+Replay 575[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/2098 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5941, 5980, 6017, 6032, 6083
+Replay 970[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/64125 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5941, 5980, 6017, 6033
+Replay 1017[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/17562 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5941, 5982
+Replay 138[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/34466 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5962, 5983
+Replay 557[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58398 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5962, 5984
+Replay 1123[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/27047 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5962, 5984
+Replay 1128[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/7217 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5962, 5984
+Replay 691[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/39003 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5962, 5985
+Replay 1056[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16827 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5962, 5985
+Replay 395[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/55132 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5964, 6118
+Replay 558[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/12459 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5964, 6118
+Replay 776[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1843 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5964, 6119
+Replay 1046[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/30537 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5964, 6120
+Replay 1104[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/22495 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5942, 5964, 6120
+Replay 493[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52961 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5992
+Replay 792[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/37972 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5993
+Replay 232[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/15694 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6046
+Replay 52[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38103 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6109, 6136
+Replay 687[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/56101 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6109, 6136
+Replay 147[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/5403 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6109, 6137
+Replay 609[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/14598 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6109, 6138
+Replay 669[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61951 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6110
+Replay 550[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/58454 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6111, 6127
+Replay 565[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3474 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6111, 6128
+Replay 796[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63548 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6111, 6128
+Replay 701[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/10790 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6111, 6129
+Replay 989[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/33670 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6047, 6111, 6129
+Replay 942[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54509 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6048, 6066
+Replay 142[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/1861 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6048, 6076, 6121
+Replay 166[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/24929 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6048, 6076, 6122, 6139
+Replay 555[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/49067 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6048, 6076, 6122, 6139
+Replay 1188[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/29198 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6048, 6076, 6122, 6139
+Replay 439[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/52064 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6048, 6076, 6122, 6140
+Replay 1161[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/16946 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6048, 6076, 6122, 6140
+Replay 1000[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/63992 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5987, 5994, 6048, 6076, 6122, 6141
+Replay 106[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/3084 3.16.1 560180197.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5988, 6094, 6130
+Replay 829[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/31628 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5988, 6094, 6130
+Replay 452[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/9593 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5988, 6094, 6131
+Replay 638[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/61638 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5988, 6094, 6132
+Replay 820[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/43008 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5988, 6096
+Replay 606[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/54728 3.16.1 560180219.000000_1st_death.csv]: 0, 3, 865, 2369, 5650, 5965, 5990
+Replay 1004[/home/dgfaelan/Documents/SeniorDesign/PvZ_1stDeath/38216 3.16.1 560180215.000000_1st_death.csv]: 0, 3, 865, 3448
