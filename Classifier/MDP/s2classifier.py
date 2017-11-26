@@ -45,9 +45,9 @@ def dist_(query, baseline):
     keys = query['timing'].keys()
     for k in keys:
         if k in baseline['timing']:
-            distance += abs(query['timing'][k] - baseline['timing'][k])
+            distance += abs(query['timing'][k] - baseline['timing'][k])/baseline['count'][tuple(k[:2])]
         else:
-            distance += query['timing'][k]
+            distance += query['timing'][k]/query['count'][tuple(k[:2])]
     return distance
 
 
@@ -116,7 +116,7 @@ def run():
         record = S2ClassifierData(filename=fname)
         data.append(record)
 
-    s2classifier = EMTree(data, dist=dist_, averager=averager, base_cluster_size=3, mways=3)
+    s2classifier = EMTree(data, dist=dist_, averager=averager, base_cluster_size=8, mways=4)
     s2classifier.train()
 
     with open("out.txt", "w") as f:
