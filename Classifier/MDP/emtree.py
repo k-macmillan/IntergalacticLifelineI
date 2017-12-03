@@ -8,35 +8,36 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 
+# Accumulator for components of fast gamma parameter estimation
 def __accum_gamma__(edge, d, weight):
     edge['sx'] += d * weight
     edge['slx'] += np.log(d) * weight
     edge['sxlx'] += np.log(d) * weight
 
-
+# Method for getting gamma distribution parameters
 def __get_gamma_params__(sx, slx, sxlx):
     beta = sxlx - slx * sx
     alpha = sx / beta
     return alpha, beta
 
-
+# Get first item in a list of records, unused.
 def __getx0__(recs):
     return recs[0]
 
-
+# Taxicab norm
 def __dist__(x, y):
     return sum(abs(x - y))
 
-
+# A loss function, the sum of f over y in data given a baseline x
 def __loss__(f, x, data):
     return sum([f(x, y) for y in data])
 
-
+# A basic accumulator, assuming the usual definition of mean
 def __accum__(accum, rec, weight=1):
     accum['sum'] += weight * rec
     accum['count'] += weight
 
-
+# An over-complicated function for calculating centroids (actually saves time by not recomputing averages)
 def __aver__(succ, recs, data):
     wrkspace = dict(sum=0, count=0)
     if len(succ) > 0:
@@ -53,6 +54,16 @@ def __aver__(succ, recs, data):
 
 
 class EMTree(DiGraph):
+    """
+    Defines an expectation maximization tree, which is really a minimum distance decision tree.
+    Each node in the tree represents the centroid of every record that passed through it during the insertion step.
+    The tree is randomly initialized as a balanced tree. The expectation process inserts nodes based on minimum distance.
+    The maximization process computes the centroids for each of these nodes. It can be shown that by repeating this process,
+    the tree will converge.
+    
+    This implementation actually uses the edge to store the centroid, but this isn't too important since each node has 
+    exactly one incoming edge.
+    """
     def __init__(self, data, dist=None, averager=None, base_cluster_size=2, mways=2):
         super().__init__()
         self.tobuild = data
@@ -144,7 +155,7 @@ class EMTree(DiGraph):
                 prevn, _ = list(self.pred[nbr].items())[0]
                 nextn, _ = list(self.succ[nbr].items())[0]
                 self.remove_node(nbr)
-                self.add_edge(prevn, nextn, wrkspace={}, count=0, center=None, depth=self.nodes[prevn]['depth'] + 1)
+                self.add_edge(prevn, nextn, workspace={}, count=0, center=None, depth=self.nodes[prevn]['depth'] + 1)
 
     def __build_insert(self, node, idx, rec):
         self.nodes[node]['recs'].append(rec)
