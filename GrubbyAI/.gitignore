@@ -1,0 +1,11 @@
+
+vs/.vs/
+vs/GrubbyAI
+
+bin/GrubbyAI
+bin/*.exe
+bin/*.ilk
+*.tlog
+*.obj
+*.log
+*.pdb
