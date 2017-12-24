@@ -2,6 +2,8 @@
 #include "Maps.h"
 
 
+
+
 int main(int argc, char* argv[]) {
 	sc2::Coordinator coordinator;
 	if (!coordinator.LoadSettings(argc, argv)) {

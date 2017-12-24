@@ -19,10 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\src\AdditionalFunctionality.cpp" />
+    <ClCompile Include="..\src\GameBoard.cpp" />
+    <ClCompile Include="..\src\GameTile.cpp" />
     <ClCompile Include="..\src\Grubby.cpp" />
     <ClCompile Include="..\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\include\AdditionalFunctionality.h" />
+    <ClInclude Include="..\include\GameBoard.h" />
+    <ClInclude Include="..\include\GameTile.h" />
+    <ClInclude Include="..\include\Globals.h" />
     <ClInclude Include="..\include\Grubby.h" />
     <ClInclude Include="..\include\Maps.h" />
   </ItemGroup>
@@ -92,7 +99,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LibraryPath>C:\Libraries\SC2API_Binary_vs2017\lib;$(LibraryPath)</LibraryPath>
     <IncludePath>C:\Libraries\SC2API_Binary_vs2017\include;$(IncludePath)</IncludePath>
-    <SourcePath>C:\Users\Kyle\source\GrubbyAI\src;$(SourcePath)</SourcePath>
+    <SourcePath>C:\Users\Kyle\source\repos\IntergalacticLifelineI\GrubbyAI\src;$(SourcePath)</SourcePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LibraryPath>C:\Libraries\BWAPI_420\lib;$(LibraryPath)</LibraryPath>
@@ -102,8 +109,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LibraryPath>C:\Libraries\SC2API_Binary_vs2017\lib;$(LibraryPath)</LibraryPath>
-    <IncludePath>C:\Users\Kyle\source\GrubbyAI\include;C:\Libraries\SC2API_Binary_vs2017\include;$(IncludePath)</IncludePath>
-    <SourcePath>C:\Users\Kyle\source\GrubbyAI\src;$(SourcePath)</SourcePath>
+    <IncludePath>C:\Libraries\SC2API_Binary_vs2017\include;$(IncludePath)</IncludePath>
+    <SourcePath>C:\Users\Kyle\source\repos\IntergalacticLifelineI\GrubbyAI\src;$(SourcePath)</SourcePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LibraryPath>C:\Libraries\SC2API_Binary_vs2017\lib;$(LibraryPath)</LibraryPath>
@@ -114,7 +121,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\Kyle\source\GrubbyAI\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Kyle\source\repos\IntergalacticLifelineI\GrubbyAI\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>Debug/</AssemblerListingLocation>
       <CompileAs>CompileAsCpp</CompileAs>
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
@@ -130,7 +137,8 @@
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <DisableSpecificWarnings>4099; 4996</DisableSpecificWarnings>
       <ProgramDataBaseFileName>$(IntDir)vc$(PlatformToolsetVersion)_SC2API.pdb</ProgramDataBaseFileName>
-      <AdditionalUsingDirectories>C:\Users\Kyle\source\GrubbyAI\src;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
+      <AdditionalUsingDirectories>
+      </AdditionalUsingDirectories>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_SCL_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -214,7 +222,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\Kyle\source\GrubbyAI\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Kyle\source\repos\IntergalacticLifelineI\GrubbyAI\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>Release/</AssemblerListingLocation>
       <CompileAs>CompileAsCpp</CompileAs>
       <ExceptionHandling>Sync</ExceptionHandling>
@@ -232,7 +240,8 @@
       <Optimization>MaxSpeed</Optimization>
       <AdditionalOptions>-DNOMINMAX -DSC2API %(AdditionalOptions)</AdditionalOptions>
       <DisableSpecificWarnings>4996</DisableSpecificWarnings>
-      <AdditionalUsingDirectories>C:\Users\Kyle\source\GrubbyAI\include;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
+      <AdditionalUsingDirectories>
+      </AdditionalUsingDirectories>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;_SCL_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>

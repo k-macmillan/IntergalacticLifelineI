@@ -7,12 +7,33 @@
     <ClCompile Include="..\src\Grubby.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\GameBoard.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameTile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AdditionalFunctionality.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\Maps.h">
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="..\include\Grubby.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\GameBoard.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\GameTile.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Globals.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\AdditionalFunctionality.h">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>
